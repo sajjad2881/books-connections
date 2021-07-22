@@ -1894,6 +1894,12 @@
 'decided': [200, 27] 
 'chose': [200, 34] 
 'permanent': [200, 26] 
+
+-------------
+Drawing an arbitrary line at 200 words now and being ruthless lower than that 
+freq 100 mark was around line 3344
+-------------
+
 'ability': [199, 29] 
 'storm': [199, 32] 
 'assume': [199, 35] 
