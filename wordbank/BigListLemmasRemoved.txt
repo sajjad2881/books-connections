@@ -1980,7 +1980,6 @@ freq 100 mark was around line 3350
 'confession': [100, 19] 
 'gay': [100, 13] 
 
-
 -------------
 Drawing an arbitrary line at 100 words and being ruthless lower than that 
 -------------
