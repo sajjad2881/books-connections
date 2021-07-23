@@ -629,6 +629,12 @@
 'toward': [503, 25] 
 'happen': [502, 34] 
 'walk': [500, 39] 
+
+-------------
+Drawing an arbitrary line at 500 words and being ruthless lower than that 
+200 word mark was around 1902
+-------------
+
 'appeared': [499, 33] 
 'sorrow': [499, 36] 
 'enjoy': [499, 38] 
