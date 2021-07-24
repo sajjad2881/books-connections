@@ -239,7 +239,7 @@
 'weak': [615, 45] 
 'punishment': [609, 33]
 'christian': [607, 30] 
-'sacrifice': [600, 36] 
+'sacrifice': [600, 36] //'sacrificed': [139, 24]  
 'sovereign': [599, 32] 
 'mercy': [594, 37] 
 'destroy': [572, 40] 
@@ -422,7 +422,6 @@
 'intelligent': [142, 26] 
 'local': [142, 18] 
 'insult': [139, 26] 
-'sacrificed': [139, 24]  // with sacrifice??
 'sport': [137, 28] 
 'mary': [137, 16] 
 'criminal': [136, 21] 
