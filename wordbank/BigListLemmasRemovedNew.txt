@@ -1,7 +1,7 @@
-'man': [13338, 49] 
-'men': [9883, 49] 
+'man': [13338, 49] // 'man’s' 
+'men': [9883, 49] // 'men’s': [115, 13]  
 'lord': [9522, 44] 
-'god': [9496, 46] 
+'god': [9496, 46] // 'god’s': [123, 14] 
 'gods'
 'great': [9184, 49] 
 'good': [8511, 48] 
@@ -139,7 +139,6 @@
 'possible': [1107, 42] 
 'self': [1099, 49] 
 'prince': [1099, 31] 
-'ancient': [1094, 43] 
 'hope': [1089, 48] 
 'principle': [1089, 28] 
 'wisdom': [1080, 41] 
@@ -292,7 +291,6 @@
 'inheritance': [395, 22] 
 'modern': [392, 29] 
 'pity': [392, 38] 
-'man’s': [391, 20]  // w man I guess 
 'jews': [389, 20] 
 'prosperity': [382, 31] 
 'suffered': [381, 36] 
@@ -441,12 +439,10 @@
 'luck': [124, 19] 
 'diversity': [124, 15] 
 'destiny': [123, 27] 
-'god’s': [123, 14]  // put with god 
 'zeus': [121, 11] 
 'nymph': [121, 12] 
 'grieved': [118, 19] 
 'voyage': [116, 22] 
-'men’s': [115, 13]  // put with men or replace 's in all places maybe 
 'africa': [113, 15] 
 'olympus': [113, 12] 
 'deity': [112, 21] 
