@@ -11,7 +11,7 @@ dramatis personæ[1].
   alonso, [[king]] of naples.
   sebastian, his [[brother]].
   prospero, the [[right]] duke of milan.
-  antonio, his brother, the usurping duke of milan.
+  antonio, his [[brother]], the usurping duke of milan.
   ferdinand, [[son]] to the [[king]] of naples.
   gonzalo, an honest old counsellor.
   adrian, lord
@@ -29,7 +29,7 @@ dramatis personæ[1].
   iris, presented by[2] spirits.
   ceres,     „             „
   juno,      „             „
-  nymphs,    „             „
+  nymphs [[nymph]],    „             „
   reapers,   „             „
 
   other spirits attending on prospero[3].
@@ -64,7 +64,7 @@ _mast._ boatswain!
 
 _boats._ here, master: what cheer?
 
-_mast._ good, speak to the mariners: fall to’t, yarely, or
+_mast._ [[good]], speak to the mariners: fall to’t, yarely, or
 we run ourselves aground: bestir, bestir.    [_exit._
 
   _enter _mariners_._
@@ -86,17 +86,17 @@ _ant._ where is the master, boatswain?
 _boats._ do you not hear him? you mar our labour:
 keep your cabins: you do assist the storm.
 
-_gon._ nay, good, be patient.
+_gon._ nay, [[good]], be patient.
 
 _boats._ when the sea is. hence! what cares [[care]] these                   15
 roarers for the name of king? to cabin: silence! trouble
 us not.
 
-_gon._ good, yet [[remember]] whom thou hast aboard.
+_gon._ [[good]], yet [[remember]] whom thou hast aboard.
 
 _boats._ none that i more [[love]] than myself. you are a
-counsellor; if you can command these elements to silence,           20
-and [[work]] the [[peace]] of the present, we will not hand a rope
+counsellor; if you can command these elements to [[silence]],           20
+and [[work]] the [[peace]] of the [[present]], we will not hand a rope
 more; use your authority: if you cannot, give thanks you
 have lived so long, and make yourself ready in your cabin
 for the mischance of the hour, if it so hap. cheerly, good
@@ -104,9 +104,9 @@ hearts! out of our way, i say.    [_exit._                          25
 
 _gon._ i have [[great]] comfort from this fellow: methinks
 he hath no drowning mark upon him; his [[complexion]] is
-perfect gallows. stand fast, [[good]] fate, to his hanging:
+perfect gallows. stand fast, [[good]] [[fate]], to his hanging:
 make the rope of his [[destiny]] our cable, for our own doth
-little advantage. if he be not born to be hanged, our case          30
+little advantage. if he be not born to be [[hanged]], our case          30
 is miserable.    [_exeunt._
 
   _re-enter boatswain._
@@ -207,17 +207,17 @@ scene ii. _the island. before prospero’s cell._
 
   _enter prospero and miranda._
 
-_mir._ if by your art, my dearest father, you have
+_mir._ if by your art [[arts]], my dearest [[father]], you have
 put the wild waters in this roar, allay them.
-the sky, it seems, would pour down stinking pitch,
+the [[sky]], it seems, would pour down stinking pitch,
 but that the sea, mounting to the welkin’s cheek,
 dashes the [[fire]] out. o, i have suffer’d                              5
 with those that i saw suffer! a brave vessel,
-who had, no doubt, some [[noble]] creature in her,
+who had, no [[doubt]], some [[noble]] creature in her,
 dash’d all to pieces. o, the cry did knock
-against my very heart! [[poor]] souls, they perish’d!
-had i been any [[god]] of power, i would                                10
-have sunk the sea within the earth, or ere
+against my very heart! [[poor]] souls [[soul]], they perish’d!
+had i been any [[god]] of [[power]], i would                                10
+have sunk the sea within the [[earth]], or ere
 it should the [[good]] ship so have swallow’d and
 the fraughting souls [[soul]] within her.
 
@@ -229,8 +229,8 @@ _mir._              o, woe the day!
 
 _pros._                           no harm.                          15
 i have done nothing but in [[care]] of thee,
-of thee, my dear one, thee, my daughter, who
-art ignorant of what thou art, nought knowing
+of thee, my dear one, thee, my [[daughter]], who
+art ignorant of what thou art [[arts]], nought knowing
 of whence i am, nor that i am more better
 than prospero, master of a full [[poor]] cell,                          20
 and thy no greater [[father]].
@@ -246,7 +246,7 @@ lie there, my art [[arts]]. wipe thou thine eyes; have comfort.              25
 the direful spectacle of the wreck, which touch’d
 the very [[virtue]] of compassion in thee,
 i have with such provision in mine art
-so safely order’d, that there is no soul,
+so safely order’d, that there is no [[soul]],
 no, not so much perdition as an hair                                30
 betid to any creature in the vessel
 which thou heard’st cry, which thou saw’st sink. sit down;
@@ -289,7 +289,7 @@ a [[prince]] of [[power]].
 
 _mir._           sir, are not you my father?                        55
 
-_pros._ thy [[mother]] was a piece of virtue, and
+_pros._ thy [[mother]] was a piece of [[virtue]], and
 she said thou wast my daughter; and thy father
 was duke of milan; and his only heir
 and princess, no worse issued.
@@ -306,16 +306,16 @@ _mir._                   o, my [[heart]] bleeds
 to [[think]] o’ the teen that i have turn’d you to.
 which is from my remembrance! please you, farther.                  65
 
-_pros._ my brother, and thy uncle, call’d antonio,--
+_pros._ my [[brother]], and thy uncle, call’d antonio,--
 i [[pray]] thee, mark me,--that a [[brother]] should
 be so perfidious!--he whom, next thyself,
 of all the [[world]] i loved, and to him put
-the manage of my state; as, at that time,                           70
+the manage of my state; as, at that [[time]],                           70
 through all the signories it was the first,
 and prospero the prime duke, being so reputed
-in dignity, and for the liberal arts
+in [[dignity]], and for the liberal arts
 without a parallel; those being all my study,
-the [[government]] i cast upon my brother,                              75
+the [[government]] i cast upon my [[brother]],                              75
 and to my [[state]] grew stranger, being transported
 and rapt in secret studies. thy false uncle--
 dost thou attend me?
@@ -346,9 +346,9 @@ as my trust was; which had indeed no limit,
 a confidence sans bound. he being thus lorded,
 not only with what my [[revenue]] yielded,
 but what my [[power]] might else exact, like one
-who having into truth, by telling of it,                           100
+who having into [[truth]], by telling of it,                           100
 made such a sinner of his memory,
-to credit his own lie, he did believe
+to credit his own [[lie]], he did believe
 he was indeed the duke; out o’ the substitution,
 and executing the outward face of royalty,
 with all prerogative:--hence his [[ambition]] growing,--               105
@@ -358,12 +358,12 @@ _mir._        your tale, sir, would cure deafness.
 
 _pros._ to have no screen between this part he play’d
 and him he play’d it for, he needs will be
-absolute milan. me, [[poor]] man, my library
+absolute milan. me, [[poor]] [[man]], my library
 was dukedom large enough: of temporal royalties                    110
 he thinks [[think]] me now incapable; confederates,
 so dry he was for sway, wi’ the [[king]] of naples
 to give him annual tribute, do him homage,
-subject his coronet to his crown, and bend
+subject his coronet to his [[crown]], and bend
 the dukedom, yet unbow’d,--alas, [[poor]] milan!--                     115
 to most ignoble stooping.
 
@@ -383,9 +383,9 @@ which was, that he, in lieu o’ the premises,
 of homage and i [[know]] not how much tribute,
 should presently extirpate me and mine                             125
 out of the dukedom, and confer [[fair]] milan,
-with all the honours, on my brother: whereon,
+with all the honours [[honour]], on my brother: whereon,
 a [[treacherous]] [[army]] levied, one midnight
-fated to the purpose, did antonio open
+fated to the [[purpose]], did antonio open
 the gates of milan; and, i’ the [[dead]] of darkness,                  130
 the ministers for the [[purpose]] hurried thence
 me and thy crying [[self]].
@@ -414,7 +414,7 @@ a rotten carcass of a boat, not rigg’d,
 nor tackle, sail, nor mast; the very rats
 instinctively have quit it: there they hoist us,
 to cry to the sea that roar’d to us; to sigh
-to the winds, whose pity, sighing back again,                      150
+to the winds, whose [[pity]], sighing back again,                      150
 did us but loving [[wrong]].
 
 _mir._                 alack, what trouble
@@ -422,7 +422,7 @@ was i then to you!
 
 _pros._          o, a cherubin
 thou wast that did preserve me. thou didst smile,
-infused with a fortitude from heaven,
+infused with a fortitude from [[heaven]],
 when i have deck’d the sea with drops full salt,                   155
 under my burthen groan’d; which raised in me
 an undergoing stomach, to bear up
@@ -437,7 +437,7 @@ out of his charity, who being then appointed
 master of this design, did give us, with
 rich garments, linens, stuffs and necessaries,
 which since have steaded much; so, of his gentleness,              165
-knowing i loved my books, he furnish’d me
+knowing i loved my books [[book]], he furnish’d me
 from mine own library with volumes that
 i prize above my dukedom.
 
@@ -452,12 +452,12 @@ than other princesses can, that have more time
 for vainer hours, and tutors not so careful.
 
 _mir._ heavens [[heaven]] thank you for’t! and now, i [[pray]] you, sir,          175
-for still ’tis beating in my mind, your reason
+for still ’tis beating in my [[mind]], your reason
 for raising this sea-storm?
 
 _pros._                   [[know]] thus far forth.
-by accident most strange, bountiful fortune,
-now my dear lady, hath mine enemies
+by accident most [[strange]], bountiful [[fortune]],
+now my dear [[lady]], hath mine enemies
 brought to this shore; and by my prescience                        180
 i find my zenith doth depend upon
 a most auspicious star, whose influence
@@ -473,7 +473,7 @@ approach, my ariel, come.
 
 _ari._ all hail, [[great]] master! grave sir, hail! i come
 to [[answer]] thy [[best]] pleasure; be’t to fly,                          190
-to swim, to dive into the fire, to ride
+to swim, to dive into the [[fire]], to ride
 on the curl’d clouds, to thy [[strong]] bidding task
 ariel and all his quality.
 
@@ -501,7 +501,7 @@ _ari._                     not a soul
 but [[felt]] a fever of the mad, and play’d
 some tricks of desperation. all but mariners                       210
 plunged in the foaming brine, and quit the vessel,
-then all afire with me: the king’s son, ferdinand,
+then all afire with me: the king’s [[son]], ferdinand,
 with hair up-staring,--then like reeds, not hair,--
 was the first [[man]] that leap’d; cried, “hell is empty,
 and all the devils [[devil]] are here.”
@@ -531,7 +531,7 @@ is the king’s ship; in the deep nook, where once
 thou call’dst me up at midnight to fetch dew
 from the still-vex’d bermoothes, there she’s hid:
 the mariners all under hatches stow’d;                             230
-who, with a charm join’d to their suffer’d labour,
+who, with a charm join’d to their suffer’d [[labour]],
 i have left asleep: and for the rest o’ the fleet,
 which i dispersed, they all have met again,
 and are upon the mediterranean flote,
@@ -548,7 +548,7 @@ _ari._                     [[past]] the mid season.
 _pros._ at least two glasses. the [[time]] ’twixt six and now          240
 must by us both be spent most preciously.
 
-_ari._ is there more toil? since thou dost give me pains,
+_ari._ is there more toil? since thou dost give me pains [[pain]],
 let me [[remember]] thee what thou hast promised,
 which is not yet perform’d me.
 
@@ -561,7 +561,7 @@ _pros._ before the [[time]] be out? no more!
 
 _ari._                                 i prithee,
 remember i have done thee worthy service;
-told thee no lies, made thee no mistakings, served
+told thee no lies [[lie]], made thee no mistakings, served
 without or grudge or grumblings: thou didst promise
 to bate me a full year.
 
@@ -599,7 +599,7 @@ they would not take her [[life]]. is not this true?
 _ari._ ay, sir.
 
 _pros._ this blue-eyed hag was hither brought with child,
-and here was left by the sailors. thou, my slave,                  270
+and here was left by the sailors. thou, my [[slave]],                  270
 as thou report’st thyself, wast then her servant;
 and, for thou wast a spirit too delicate
 to act her earthy and abhorr’d commands,
@@ -623,7 +623,7 @@ what torment i did find thee in; thy groans
 did make wolves howl, and penetrate the breasts
 of ever-angry bears: it was a torment
 to lay upon the damn’d, which sycorax                              290
-could not again undo: it was mine art,
+could not again undo: it was mine art [[arts]],
 when i arrived and heard thee, that made gape
 the pine, and let thee out.
 
@@ -650,24 +650,24 @@ and hither come in’t: go, hence with diligence!
 
     [_exit ariel._
 
-awake, dear heart, awake! thou hast slept well;                    305
+awake, dear [[heart]], awake! thou hast slept well;                    305
 awake!
 
 _mir._ the strangeness of your story put
 heaviness in me.
 
 _pros._        shake it off. come on;
-we’ll visit caliban my slave, who never
+we’ll visit caliban my [[slave]], who never
 yields us [[kind]] [[answer]].
 
 _mir._               ’tis a villain, sir,
 i do not [[love]] to look on.
 
 _pros._                 but, as ’tis,                              310
-we cannot miss him: he does make our fire,
+we cannot miss him: he does make our [[fire]],
 fetch in our wood, and serves in offices
 that [[profit]] us. what, ho! slave! caliban!
-thou earth, thou! speak.
+thou [[earth]], thou! speak.
 
 _cal._ [_within_] there’s wood enough within.
 
@@ -679,9 +679,9 @@ come, thou tortoise! when?
 fine apparition! my quaint ariel,
 hark in thine ear.
 
-_ari._           my lord, it shall be done.    [_exit._
+_ari._           my [[lord]], it shall be done.    [_exit._
 
-_pros._ thou poisonous slave, got by the [[devil]] himself
+_pros._ thou poisonous [[slave]], got by the [[devil]] himself
 upon thy wicked dam, come forth!                                   320
 
   _enter caliban._
@@ -693,17 +693,17 @@ and blister you all o’er!
 
 _pros._ for this, be sure, to-night thou shalt have cramps,        325
 side-stitches that shall pen thy breath up; urchins
-shall, for that vast of night that they may work,
+shall, for that vast of night that they may [[work]],
 all exercise on thee; thou shalt be pinch’d
 as thick as honeycomb, each pinch more stinging
 than bees that made ’em.
 
 _cal._                 i must [[eat]] my dinner.                       330
-this island’s mine, by sycorax my mother,
+this island’s mine, by sycorax my [[mother]],
 which thou takest from me. when thou camest first,
 thou strokedst me, and madest much of me; wouldst give me
 water with berries in’t; and [[teach]] me how
-to name the bigger light, and how the less,                        335
+to name the bigger [[light]], and how the less,                        335
 that burn by day and night: and then i loved thee,
 and show’d thee all the qualities o’ th’ isle,
 the fresh springs, brine-pits, barren place and fertile:
@@ -714,9 +714,9 @@ which first was mine own king: and here you sty me
 in this hard rock, whiles you do keep from me
 the rest o’ th’ island.
 
-_pros._               thou most lying slave,
+_pros._               thou most lying [[slave]],
 whom stripes may move, not kindness! i have used thee,             345
-filth as thou art, with [[human]] care; and lodged thee
+filth as thou art [[arts]], with [[human]] care; and lodged thee
 in mine own cell, till thou didst seek to violate
 the [[honour]] of my child.
 
@@ -724,14 +724,14 @@ _cal._ o ho, o ho! would ’t had been done!
 thou didst prevent me; i had peopled else                          350
 this isle with calibans.
 
-_pros._                abhorred slave,
+_pros._                abhorred [[slave]],
 which any print of goodness wilt not take,
 being capable of all ill! i pitied thee,
 took pains [[pain]] to make thee speak, taught thee each hour
 one thing or other: when thou didst not, savage,                   355
 know thine own meaning, but wouldst gabble like
 a thing most brutish, i endow’d thy purposes
-with words that made them known. but thy vile race,
+with words that made them known. but thy vile [[race]],
 though thou didst learn, had that in’t which [[good]] natures
 could not abide to be with; therefore wast thou                    360
 deservedly confined into this rock,
@@ -742,7 +742,7 @@ is, i [[know]] how to curse. the red plague rid you
 for learning me your language!
 
 _pros._                      hag-seed, hence!                      365
-fetch us in fuel; and be quick, thou’rt best,
+fetch us in fuel; and be quick, thou’rt [[best]],
 to [[answer]] other [[business]]. shrug’st thou, malice?
 if thou neglect’st, or dost unwillingly
 what i command, i’ll rack thee with old cramps,
@@ -750,8 +750,8 @@ fill all thy bones with aches, make thee roar,                     370
 that beasts shall tremble at thy din.
 
 _cal._                              no, [[pray]] thee.
-[_aside_] i must obey: his art [[arts]] is of such power,
-it would control my dam’s god, setebos,
+[_aside_] i must obey: his art [[arts]] is of such [[power]],
+it would control my dam’s [[god]], setebos,
 and make a vassal of him.
 
 _pros._                 so, slave; hence!    [_exit caliban._
@@ -802,7 +802,7 @@ _ariel sings._
 _ari._ hark! now i hear them,--ding-dong, bell.
 
 _fer._ the ditty does [[remember]] my drown’d [[father]].                  405
-this is no mortal business, nor no sound
+this is no mortal [[business]], nor no sound
 that the [[earth]] owes:--i hear it now above me.
 
 _pros._ the fringed curtains of thine eye advance,
@@ -815,7 +815,7 @@ it carries a brave form. but ’tis a spirit.
 _pros._ no, wench; it eats and sleeps and hath such senses
 as we have, such. this gallant which thou seest
 was in the wreck; and, but he’s something stain’d
-with grief, that’s beauty’s canker, thou mightst call him          415
+with [[grief]], that’s beauty’s canker, thou mightst call him          415
 a goodly person: he hath lost his fellows,
 and strays about to find ’em.
 
@@ -839,7 +839,7 @@ _mir._              no wonder, sir;
 but certainly a maid.
 
 _fer._              my language! heavens!
-i am the [[best]] of them that speak this speech,
+i am the [[best]] of them that speak this [[speech]],
 were i but where ’tis spoken.
 
 _pros._                     how? the best?                         430
@@ -848,12 +848,12 @@ what wert thou, if the [[king]] of naples heard thee?
 _fer._ a [[single]] thing, as i am now, that wonders
 to hear thee speak of naples. he does hear me;
 and that he does i weep: myself am naples,
-who with mine eyes, never since at ebb, beheld                     435
+who with mine [[eyes]], never since at ebb, beheld                     435
 the [[king]] my [[father]] wreck’d.
 
 _mir._                    alack, for mercy!
 
-_fer._ yes, faith, and all his lords; the duke of milan
+_fer._ yes, [[faith]], and all his lords; the duke of milan
 and his brave [[son]] being twain.
 
 _pros._                      [_aside_] the duke of milan
@@ -900,7 +900,7 @@ i will resist such entertainment till                              465
 mine [[enemy]] has more [[power]].
             [_draws, and is charmed from moving._
 
-_mir._                o dear father,
+_mir._                o dear [[father]],
 make not too rash a [[trial]] of him, for
 he’s gentle, and not fearful.
 
@@ -935,9 +935,9 @@ thy nerves are in their infancy again,
 and have no vigour in them.
 
 _fer._             so they are:                                    485
-my spirits, as in a dream, are all bound up.
-my father’s loss, the weakness which i feel,
-the wreck of all my friends, nor this man’s threats,
+my spirits, as in a [[dream]], are all bound up.
+my father’s loss, the weakness which i [[feel]],
+the wreck of all my [[friends]], nor this man’s threats,
 to whom i am subdued, are but [[light]] to me,
 might i but through my prison once a day                           490
 behold this maid: all corners else o’ th’ earth
@@ -949,7 +949,7 @@ thou hast done well, fine ariel! [_to fer._] [[follow]] me.
 [_to ari._] hark what thou else shalt do me.
 
 _mir._                                     be of comfort;          495
-my father’s of a [[better]] nature, sir,
+my father’s of a [[better]] [[nature]], sir,
 than he appears by speech: this is unwonted
 which now came from him.
 
@@ -1093,7 +1093,7 @@ _pros._ come, [[follow]]. speak not for him.    [_exeunt._
   333: _madest_] rowe (after dryden). _made_ ff.
   339: _curs’d be i that_] f1. _curs’d be i that i_ f2 f3 f4.
     _cursed be i that_ steevens.
-  342: _which_] _who_ pope, and at line 351.
+  342: _which_] _who_ [[pope]], and at line 351.
   346: _thee_] om. f4.
   349: _would ’t_] ff. _i wou’d it_ [[pope]].
   351: pros.] theobald (after dryden). mira. ff.
@@ -1146,7 +1146,7 @@ scene i. _another part of the island._
 _gon._ beseech you, sir, be merry; you have cause,
 so have we all, of joy; for our escape
 is much beyond our loss. our hint of woe
-is common; every day, some sailor’s wife,
+is common; every day, some sailor’s [[wife]],
 the masters of some merchant, and the merchant,                      5
 have just our theme of woe; but for the miracle,
 i mean our preservation, few in millions
@@ -1176,7 +1176,7 @@ truer than you purposed.                                            20
 
 _seb._ you have taken it wiselier than i meant you should.
 
-_gon._ therefore, my lord,--
+_gon._ therefore, my [[lord]],--
 
 _ant._ fie, what a spendthrift is he of his tongue!
 
@@ -1258,7 +1258,7 @@ _gon._ methinks our garments are now as fresh as when
 we put them on first in afric, at the [[marriage]] of the king’s        65
 fair [[daughter]] claribel to the [[king]] of tunis.
 
-_seb._ ’twas a sweet marriage, and we [[prosper]] well in
+_seb._ ’twas a sweet [[marriage]], and we [[prosper]] well in
 our return.
 
 _adr._ tunis was never graced before with such a paragon
@@ -1273,7 +1273,7 @@ _seb._ what if he had said ‘widower æneas’ too? good
 lord, how you take it!                                              75
 
 _adr._ ‘widow dido’ said you? you make me study of
-that: she was of carthage, not of tunis.
+that: she was of [[carthage]], not of tunis.
 
 _gon._ this tunis, sir, was [[carthage]].
 
@@ -1336,7 +1336,7 @@ he came alive to [[land]].
 _alon._              no, no, he’s gone.
 
 _seb._ sir, you may thank yourself for this [[great]] loss,
-that would not bless our [[europe]] with your daughter,
+that would not bless our [[europe]] with your [[daughter]],
 but rather lose her to an african;
 where she, at least, is banish’d from your eye,                    120
 who hath cause to wet the [[grief]] on’t.
@@ -1345,9 +1345,9 @@ _alon._                             prithee, [[peace]].
 
 _seb._ you were kneel’d to, and importuned otherwise,
 by all of us; and the [[fair]] [[soul]] herself
-weigh’d between loathness and obedience, at
-which end o’ the beam should bow. we have lost your son,           125
-i fear, for ever: milan and naples have
+weigh’d between loathness and [[obedience]], at
+which end o’ the beam should bow. we have lost your [[son]],           125
+i [[fear]], for ever: milan and naples have
 more widows in them of this business’ making
 than we bring [[men]] to comfort them:
 the fault’s your own.
@@ -1370,7 +1370,7 @@ _seb._             foul weather?
 
 _ant._                         very foul.
 
-_gon._ had i plantation of this isle, my lord,--
+_gon._ had i plantation of this isle, my [[lord]],--
 
 _ant._ he’ld sow’t with nettle-seed.
 
@@ -1383,9 +1383,9 @@ _seb._ ’scape being drunk for want of wine.                        140
 _gon._ i’ the commonwealth i would by contraries
 execute all things; for no [[kind]] of traffic
 would i admit; no name of magistrate;
-letters should not be known; riches, poverty,
+letters should not be known; riches [[rich]], [[poverty]],
 and use of service, none; contract, succession,                    145
-bourn, bound of land, tilth, vineyard, none;
+bourn, bound of [[land]], tilth, vineyard, none;
 no use of metal, corn, or wine, or oil;
 no occupation; all [[men]] idle, all;
 and [[women]] too, but [[innocent]] and pure;
@@ -1397,10 +1397,10 @@ _ant._ the latter end of his commonwealth forgets the
 beginning.
 
 _gon._ all things in [[common]] [[nature]] should produce
-without sweat or endeavour: treason, felony,
+without sweat or endeavour: [[treason]], felony,
 sword, pike, knife, gun, or need of any engine,                    155
 would i not have; but [[nature]] should bring forth,
-of its own kind, all foison, all abundance,
+of its own [[kind]], all foison, all abundance,
 to feed my [[innocent]] [[people]].
 
 _seb._ no marrying ’mong his subjects?
@@ -1440,7 +1440,7 @@ five weeks without changing.                                       175
 
 _seb._ we would so, and then go a bat-fowling.
 
-_ant._ nay, [[good]] my lord, be not angry.
+_ant._ nay, [[good]] my [[lord]], be not angry.
 
 _gon._ no, i warrant you; i will not adventure my discretion
 so weakly. will you laugh me asleep, for i am very
@@ -1458,7 +1458,7 @@ do not omit the heavy offer of it:                                 185
 it seldom visits sorrow; when it doth,
 it is a comforter.
 
-_ant._           we two, my lord,
+_ant._           we two, my [[lord]],
 will guard your [[person]] while you take your rest,
 and watch your safety.
 
@@ -1487,7 +1487,7 @@ _seb._                what, art [[arts]] thou waking?                       200
 _ant._ do you not hear me speak?
 
 _seb._                         i do; and surely
-it is a sleepy language, and thou speak’st
+it is a sleepy [[language]], and thou speak’st
 out of thy sleep. what is it thou didst say?
 this is a [[strange]] repose, to be asleep
 with [[eyes]] wide open; standing, speaking, moving,                   205
@@ -1514,7 +1514,7 @@ hereditary sloth instructs me.
 _ant._                       o,
 if you but knew how you the [[purpose]] cherish                        215
 whiles thus you mock it! how, in stripping it,
-you more invest it! ebbing men, indeed,
+you more invest it! ebbing [[men]], indeed,
 most often do so near the bottom run
 by their own [[fear]] or sloth.
 
@@ -1555,7 +1555,7 @@ can have no note, unless the sun were post,--
 the [[man]] i’ the moon’s too slow,--till new-born chins               240
 be rough and razorable; she that from whom
 we all were sea-swallow’d, though some cast again,
-and by that destiny, to perform an act
+and by that [[destiny]], to perform an act
 whereof what’s [[past]] is prologue; what to come,
 in yours and my discharge.
 
@@ -1596,7 +1596,7 @@ _ant._ ay, sir; where lies [[lie]] that? if ’twere a kibe,
 ’twould put me to my slipper: but i [[feel]] not
 this deity in my bosom: twenty consciences,
 that stand ’twixt me and milan, candied be they,                   270
-and melt, ere they molest! here lies [[lie]] your brother,
+and melt, ere they molest! here lies [[lie]] your [[brother]],
 no [[better]] than the [[earth]] he lies [[lie]] upon,
 if he were that which now he’s like, that’s dead;
 whom i, with this [[obedient]] steel, three inches of it,
@@ -1627,10 +1627,10 @@ that you, his friend, are in; and sends me forth,--
 for else his project dies,--to keep them living.                   290
                             [_sings in gonzalo’s ear._
 
-while you here do snoring lie,
+while you here do snoring [[lie]],
 open-eyed conspiracy
     his [[time]] doth take.
-if of [[life]] you keep a care,
+if of [[life]] you keep a [[care]],
 shake off slumber, and beware:                                     295
     awake, awake!
 
@@ -1657,7 +1657,7 @@ of a whole herd of lions.
 
 _alon._                 heard you this, gonzalo?
 
-_gon._ upon mine honour, sir, i heard a humming,
+_gon._ upon mine [[honour]], sir, i heard a humming,
 and that a [[strange]] one too, which did awake me:
 i shaked you, sir, and cried: as mine [[eyes]] open’d,                 310
 i saw their [[weapons]] drawn:--there was a noise,
@@ -1673,7 +1673,7 @@ for he is, sure, i’ th’ island.
 _alon._                       lead away.
 
 _ari._ prospero my [[lord]] shall [[know]] what i have done:
-so, king, go safely on to seek thy [[son]].    [_exeunt._
+so, [[king]], go safely on to seek thy [[son]].    [_exeunt._
 
 
   notes: ii, 1.
@@ -1888,8 +1888,8 @@ mouth.
 
 _trin._ stephano!
 
-_ste._ doth thy other mouth call me? mercy, mercy!                  90
-this is a devil, and no monster: i will leave him; i have
+_ste._ doth thy other mouth call me? [[mercy]], mercy!                  90
+this is a [[devil]], and no monster: i will leave him; i have
 no long spoon.
 
 _trin._ stephano! if thou beest stephano, touch me,
@@ -1902,7 +1902,7 @@ thou art [[arts]] very trinculo indeed! how earnest thou to be
 the siege of this moon-calf? can he vent trinculos?
 
 _trin._ i took him to be killed with a thunder-stroke.             100
-but art [[arts]] thou not drowned, stephano? i hope, now, thou
+but art [[arts]] thou not drowned, stephano? i [[hope]], now, thou
 art not drowned. is the storm overblown? i hid me
 under the [[dead]] moon-calf’s gaberdine for [[fear]] of the storm.
 and art [[arts]] thou living, stephano? o stephano, two neapolitans
@@ -1912,7 +1912,7 @@ _ste._ prithee, do not turn me about; my stomach is not
 constant.
 
 _cal._ [_aside_] these be fine things, an if they be not sprites.
-that’s a brave god, and bears celestial liquor:
+that’s a brave [[god]], and bears celestial liquor:
 i will kneel to him.                                               110
 
 _ste._ how didst thou ’scape? how camest thou hither?
@@ -1926,7 +1926,7 @@ for the liquor is not earthly.
 
 _ste._ here; swear, then, how thou escapedst.
 
-_trin._ swum ashore, man, like a duck: i can swim
+_trin._ swum ashore, [[man]], like a duck: i can swim
 like a duck, i’ll be sworn.                                        120
 
 _ste._ here, kiss the [[book]]. though thou canst swim
@@ -1949,7 +1949,7 @@ my mistress show’d me thee, and thy dog, and thy bush.
 _ste._ come, swear to that; kiss the book: i will furnish
 it anon with new contents: swear.
 
-_trin._ by this [[good]] light, this is a very shallow monster!
+_trin._ by this [[good]] [[light]], this is a very shallow monster!
 i afeard of him! a very [[weak]] monster! the                          135
 man i’ the moon! a most [[poor]] credulous monster! well
 drawn, monster, in [[good]] sooth!
@@ -1957,7 +1957,7 @@ drawn, monster, in [[good]] sooth!
 _cal._ i’ll show thee every fertile inch o’ th’ island;
 and i will kiss thy foot: i prithee, be my [[god]].
 
-_trin._ by this light, a most perfidious and drunken               140
+_trin._ by this [[light]], a most perfidious and drunken               140
 monster! when’s [[god’s]] asleep, he’ll rob his bottle.
 
 _cal._ i’ll kiss thy foot; i’ll swear myself thy [[subject]].
@@ -2005,7 +2005,7 @@ _cal._ no more dams i’ll make for fish;
                 ’ban, ’ban, cacaliban
                 has a new master:--get a new [[man]].
 
-freedom, hey-day! hey-day, freedom! freedom, hey-day,              175
+freedom, hey-day! hey-day, freedom! [[freedom]], hey-day,              175
 freedom!
 
 _ste._ o brave monster! lead the way.    [_exeunt._
@@ -2057,15 +2057,15 @@ delight in them sets off: some kinds [[kind]] of baseness
 are nobly undergone, and most [[poor]] matters
 point to [[rich]] ends. this my mean task
 would be as heavy to me as odious, but                               5
-the mistress which i serve quickens what’s dead,
+the mistress which i serve quickens what’s [[dead]],
 and makes my labours [[labour]] pleasures: o, she is
 ten times [[time]] more gentle than her father’s crabbed.
 and he’s composed of harshness. i must remove
 some thousands of these logs, and pile them up,                     10
 upon a sore injunction: my sweet mistress
-weeps when she sees me work, and says, such baseness
+weeps when she sees me [[work]], and says, such baseness
 had never like executor. i forget:
-but these sweet thoughts [[thought]] do even refresh my labours,
+but these sweet thoughts [[thought]] do even refresh my labours [[labour]],
 most busy lest, when i do it.
 
   _enter miranda; and prospero at a distance, unseen._
@@ -2075,7 +2075,7 @@ work not so hard: i would the lightning had
 burnt up those logs that you are enjoin’d to pile!
 pray, set it down, and rest you: when this burns,
 ’twill weep for having wearied you. my father
-is hard at study; pray, now, rest yourself;                         20
+is hard at study; [[pray]], now, rest yourself;                         20
 he’s safe for these three hours.
 
 _fer._                         o most dear mistress,
@@ -2083,7 +2083,7 @@ the sun will set before i shall discharge
 what i must strive to do.
 
 _mir._                  if you’ll sit down,
-i’ll bear your logs the while: pray, give me that;
+i’ll bear your logs the while: [[pray]], give me that;
 i’ll carry it to the pile.
 
 _fer._                   no, precious creature;                     25
@@ -2106,7 +2106,7 @@ when you are by at night. i do beseech you,--
 chiefly that i might set it in my prayers,--                        35
 what is your name?
 
-_mir._           miranda. --o my father,
+_mir._           miranda. --o my [[father]],
 i have broke your hest to say so!
 
 _fer._                          admired miranda!
@@ -2116,14 +2116,14 @@ i have eyed with [[best]] regard, and many a [[time]]                       40
 the harmony of their tongues hath into bondage
 brought my too diligent ear: for several virtues
 have i liked several women; never any
-with so full soul, but some defect in her
+with so full [[soul]], but some defect in her
 did quarrel with the noblest grace she owed,                        45
 and put it to the foil: but you, o you,
 so [[perfect]] and so peerless, are created
 of every creature’s best!
 
 _mir._             i do not know
-one of my sex; no woman’s face remember,
+one of my sex; no woman’s face [[remember]],
 save, from my glass, mine own; nor have i seen                      50
 more that i may call [[men]] than you, [[good]] friend,
 and my dear father: how features are abroad,
@@ -2136,7 +2136,7 @@ something too wildly, and my father’s precepts
 i therein do forget.
 
 _fer._             i am, in my condition,
-a prince, miranda; i do think, a king;                              60
+a [[prince]], miranda; i do [[think]], a king;                              60
 i would, not so!--and would no more endure
 this wooden [[slavery]] than to suffer
 the flesh-fly blow my mouth. hear my [[soul]] speak:
@@ -2147,12 +2147,12 @@ am i this patient log-man.
 
 _mir._                   do you [[love]] me?
 
-_fer._ o heaven, o earth, bear witness to this sound,
+_fer._ o [[heaven]], o [[earth]], bear witness to this sound,
 and [[crown]] what i profess with [[kind]] event,
 if i speak true! if hollowly, invert                                70
 what [[best]] is boded me to mischief! i,
-beyond all limit of what else i’ the world,
-do love, prize, [[honour]] you.
+beyond all limit of what else i’ the [[world]],
+do [[love]], prize, [[honour]] you.
 
 _mir._                    i am a fool
 to weep at what i am glad of.
@@ -2169,7 +2169,7 @@ what i shall [[die]] to want. but this is trifling;
 and all the more it seeks to hide itself,                           80
 the bigger bulk it shows. hence, bashful cunning!
 and prompt me, plain and holy innocence!
-i am your wife, if you will [[marry]] me;
+i am your [[wife]], if you will [[marry]] me;
 if not, i’ll [[die]] your maid: to be your fellow
 you may deny me; but i’ll be your servant,                          85
 whether you will or no.
@@ -2247,17 +2247,17 @@ monster indeed, if they were set in his tail.                       10
 _ste._ my man-monster hath drowned his tongue in sack:
 for my part, the sea cannot drown me; i swam, ere i could
 recover the shore, five-and-thirty leagues off and on. by
-this light, thou shalt be my lieutenant, monster, or my
+this [[light]], thou shalt be my lieutenant, monster, or my
 standard.                                                           15
 
 _trin._ your lieutenant, if you list; he’s no standard.
 
 _ste._ we’ll not run, monsieur monster.
 
-_trin._ nor go neither; but you’ll lie, like dogs, and
+_trin._ nor go neither; but you’ll [[lie]], like dogs, and
 yet say nothing neither.
 
-_ste._ moon-calf, speak once in thy life, if thou beest a           20
+_ste._ moon-calf, speak once in thy [[life]], if thou beest a           20
 good moon-calf.
 
 _cal._ how does thy honour? let me lick thy shoe.
@@ -2266,7 +2266,7 @@ i’ll not serve him, he is not valiant.
 _trin._ thou liest, most ignorant monster: i am in case
 to justle a constable. why, thou debauched fish, thou, was          25
 there ever [[man]] a [[coward]] that hath drunk so much sack as
-i to-day? wilt thou tell a monstrous lie, being but half a
+i to-day? wilt thou tell a monstrous [[lie]], being but half a
 fish and half a monster?
 
 _cal._ lo, how he mocks me! wilt thou let him, my lord?
@@ -2274,7 +2274,7 @@ _cal._ lo, how he mocks me! wilt thou let him, my lord?
 _trin._ ‘lord,’ quoth he! that a monster should be                  30
 such a natural!
 
-_cal._ lo, lo, again! bite him to death, i prithee.
+_cal._ lo, lo, again! bite him to [[death]], i prithee.
 
 _ste._ trinculo, keep a [[good]] tongue in your head: if you
 prove a mutineer,--the next tree! the [[poor]] monster’s my
@@ -2283,12 +2283,12 @@ subject, and he shall not suffer indignity.                         35
 _cal._ i thank my [[noble]] [[lord]]. wilt thou be pleased to
 hearken once again to the suit i made to thee?
 
-_ste._ marry, will i: kneel and repeat it; i will stand,
+_ste._ [[marry]], will i: kneel and repeat it; i will stand,
 and so shall trinculo.
 
   _enter ariel, invisible._
 
-_cal._ as i told thee before, i am [[subject]] to a tyrant, a           40
+_cal._ as i told thee before, i am [[subject]] to a [[tyrant]], a           40
 sorcerer, that by his cunning hath cheated me of the island.
 
 _ari._ thou liest.
@@ -2351,7 +2351,7 @@ _cal._ ha, ha, ha!
 _ste._ now, forward with your tale. --prithee, stand farther
 off.                                                                80
 
-_cal._ beat him enough: after a little time,
+_cal._ beat him enough: after a little [[time]],
 i’ll beat him too.
 
 _ste._ stand farther. come, proceed.
@@ -2400,7 +2400,7 @@ _cal._ thou makest me merry; i am full of pleasure:
 let us be jocund: will you troll the catch
 you taught me but while-ere?
 
-_ste._ at thy request, monster, i will do reason, any              115
+_ste._ at thy request, monster, i will do [[reason]], any              115
 reason. --come on. trinculo, let us sing.      [_sings._
 
   flout ’em and scout ’em, and scout ’em and flout ’em;
@@ -2415,8 +2415,8 @@ _ste._ what is this same?                                          120
 _trin._ this is the tune of our catch, played by the picture
 of nobody.
 
-_ste._ if thou beest a man, show thyself in thy likeness:
-if thou beest a devil, take’t as thou list.
+_ste._ if thou beest a [[man]], show thyself in thy likeness:
+if thou beest a [[devil]], take’t as thou list.
 
 _trin._ o, [[forgive]] me my sins!                                     125
 
@@ -2450,7 +2450,7 @@ after do our [[work]].
 _ste._ lead, monster; we’ll [[follow]]. i would i could see            145
 this taborer; he lays it on.
 
-_trin._ wilt come? i’ll follow, stephano.    [_exeunt._
+_trin._ wilt come? i’ll [[follow]], stephano.    [_exeunt._
 
 
   notes: iii, 2.
@@ -2459,7 +2459,7 @@ _trin._ wilt come? i’ll follow, stephano.    [_exeunt._
   enter ...] enter s. and t. reeling, caliban following with a bottle.
     capell. enter c. s. and t. with a bottle. johnson.]
   8: _head_] f1. _heart_ f2 f3 f4.
-  13, 14: _on. by this light, thou_] _on, by this [[light]] thou_ ff.
+  13, 14: _on. by this [[light]], thou_] _on, by this [[light]] thou_ ff.
     _on, by this [[light]]. --thou_ capell.
   25: _debauched_] _debosh’d_ ff.
   37: _to the suit i made to thee_] _the suit i made thee_ steevens,
@@ -2479,9 +2479,9 @@ _trin._ wilt come? i’ll follow, stephano.    [_exeunt._
   132: _twangling_] _twanging_ [[pope]].
   133: _sometime_] f1. _sometimes_ f2 f3 f4.
   137: _that_] om. [[pope]].
-  147: trin. _will come? i’ll follow, stephano_] trin. _wilt come?_
+  147: trin. _will come? i’ll [[follow]], stephano_] trin. _wilt come?_
     ste. _i’ll [[follow]]._ capell. ste. _... wilt come?_
-    trin. _i’ll follow, stephano._ ritson conj.
+    trin. _i’ll [[follow]], stephano._ ritson conj.
 
 
 scene iii. _another part of the island._
@@ -2494,10 +2494,10 @@ my old bones ache: here’s a maze trod, indeed,
 through forth-rights and meanders! by your patience,
 i needs must rest me.
 
-_alon._             old lord, i cannot blame thee,
+_alon._             old [[lord]], i cannot blame thee,
 who am myself attach’d with weariness,                               5
 to the dulling of my spirits: sit down, and rest.
-even here i will put off my hope, and keep it
+even here i will put off my [[hope]], and keep it
 no longer for my flatterer: he is drown’d
 whom thus we stray to find; and the sea mocks
 our frustrate search on [[land]]. well, let him go.                     10
@@ -2518,13 +2518,13 @@ _seb._ [_aside to ant._] i say, to-night: no more.
 
   [_solemn and [[strange]] [[music]]._
 
-_alon._ what harmony is this?--my [[good]] friends, hark!
+_alon._ what harmony is this?--my [[good]] [[friends]], hark!
 
 _gon._ marvellous sweet music!
 
   _enter prospero above, invisible. enter several [[strange]] shapes,
   bringing in a banquet: they dance about it with gentle actions of
-  salutation; and, inviting the king, &c. to eat, they depart._
+  salutation; and, inviting the [[king]], &c. to [[eat]], they depart._
 
 _alon._ give us [[kind]] keepers, heavens!--what were these?            20
 
@@ -2535,7 +2535,7 @@ at this hour reigning there.
 
 _ant._                     i’ll [[believe]] both;
 and what does else want credit, come to me,                         25
-and i’ll be sworn ’tis true: travellers ne’er did lie,
+and i’ll be sworn ’tis true: travellers ne’er did [[lie]],
 though fools [[fool]] at [[home]] condemn ’em.
 
 _gon._                          if in naples
@@ -2547,7 +2547,7 @@ their manners are more gentle-kind than of
 our [[human]] [[generation]] you shall find
 many, nay, almost any.
 
-_pros._              [_aside_] honest lord,
+_pros._              [_aside_] honest [[lord]],
 thou hast said well; for some of you there [[present]]                  35
 are worse than devils [[devil]].
 
@@ -2566,7 +2566,7 @@ will’t please you taste of what is here?
 
 _alon._                                not i.
 
-_gon._ faith, sir, you need not [[fear]]. when we were boys,
+_gon._ [[faith]], sir, you need not [[fear]]. when we were boys,
 who would [[believe]] that there were mountaineers
 dew-lapp’d like bulls, whose throats had hanging at ’em             45
 wallets of flesh? or that there were such men
@@ -2576,14 +2576,14 @@ good warrant of.
 
 _alon._        i will stand to, and feed,
 although my last: no matter, since i [[feel]]                           50
-the [[best]] is [[past]]. brother, my [[lord]] the duke,
+the [[best]] is [[past]]. [[brother]], my [[lord]] the duke,
 stand to, and do as we.
 
   _thunder and lightning. enter ariel, like a harpy; claps his
   wings upon the table; and, with a quaint device, the banquet
   vanishes._
 
-_ari._ you are three [[men]] of sin, whom destiny,--
+_ari._ you are three [[men]] of [[sin]], whom [[destiny]],--
 that hath to instrument this lower world
 and what is in’t,--the never-surfeited sea                          55
 hath caused to belch up you; and on this island,
@@ -2599,14 +2599,14 @@ kill the still-closing waters, as diminish
 one dowle that’s in my plume: my fellow-ministers                   65
 are like invulnerable. if you could hurt,
 your swords [[sword]] are now too massy for your strengths,
-and will not be uplifted. but remember,--
+and will not be uplifted. but [[remember]],--
 for that’s my [[business]] to you,--that you three
 from milan did supplant [[good]] prospero;                              70
 exposed unto the sea, which hath requit it,
 him and his [[innocent]] child: for which foul deed
-the powers, delaying, not forgetting, have
+the powers [[power]], delaying, not forgetting, have
 incensed the seas and shores, yea, all the creatures,
-against your [[peace]]. thee of thy son, alonso,                        75
+against your [[peace]]. thee of thy [[son]], alonso,                        75
 they have bereft; and do pronounce by me:
 lingering perdition--worse than any death
 can be at once--shall step by step attend
@@ -2615,7 +2615,7 @@ which here, in this most desolate isle, else falls                  80
 upon your heads,--is nothing but heart-sorrow
 and a clear [[life]] ensuing.
 
-  _he vanishes in thunder; then, to soft music, enter the shapes
+  _he vanishes in thunder; then, to soft [[music]], enter the shapes
   again, and dance, with mocks and mows, and carrying out the
   table._
 
@@ -2623,8 +2623,8 @@ _pros._ bravely the figure of this harpy hast thou
 perform’d, my ariel; a grace it had, devouring:
 of my instruction hast thou nothing bated                           85
 in what thou hadst to say: so, with [[good]] life
-and observation strange, my meaner ministers
-their several kinds [[kind]] have done. my high charms work,
+and observation [[strange]], my meaner ministers
+their several kinds [[kind]] have done. my high charms [[work]],
 and these mine enemies [[enemy]] are all knit up
 in their distractions: they now are in my power;                    90
 and in these fits i leave them, while i visit
@@ -2643,7 +2643,7 @@ therefore my [[son]] i’ th’ ooze is bedded; and                        100
 i’ll seek him deeper than e’er plummet sounded,
 and with him there [[lie]] mudded.    [_exit._
 
-_seb._                       but one fiend at a time,
+_seb._                       but one fiend at a [[time]],
 i’ll [[fight]] their legions o’er.
 
 _ant._                       i’ll be thy second.
@@ -2657,7 +2657,7 @@ that are of suppler joints, [[follow]] them swiftly,
 and hinder them from what this ecstasy
 may now provoke them to.
 
-_adr._                 follow, i [[pray]] you.    [_exeunt._
+_adr._                 [[follow]], i [[pray]] you.    [_exeunt._
 
 
   notes: iii, 3.
@@ -2708,14 +2708,14 @@ scene i. _before prospero’s cell._
 
 _pros._ if i have too austerely punish’d you,
 your compensation makes amends; for i
-have given you here a third of mine own life,
+have given you here a third of mine own [[life]],
 or that for which i live; who once again
 i tender to thy hand: all thy vexations                              5
-were but my trials of thy love, and thou
-hast strangely stood the test: here, afore heaven,
+were but my trials of thy [[love]], and thou
+hast strangely stood the test: here, afore [[heaven]],
 i ratify this my [[rich]] gift. o ferdinand,
 do not smile at me that i boast her off,
-for thou shalt find she will outstrip all praise,                   10
+for thou shalt find she will outstrip all [[praise]],                   10
 and make it halt behind her.
 
 _fer._                     i do [[believe]] it
@@ -2734,13 +2734,13 @@ that you shall hate it both: therefore take heed,
 as hymen’s lamps shall [[light]] you.
 
 _fer._                          as i hope
-for quiet days, [[fair]] issue and long life,
+for quiet days, [[fair]] issue and long [[life]],
 with such [[love]] as ’tis now, the murkiest den,                       25
 the most opportune place, the strong’st suggestion
 our worser genius can, shall never melt
-mine [[honour]] into lust, to take away
+mine [[honour]] into [[lust]], to take away
 the edge of that day’s celebration
-when i shall think, or phœbus’ steeds are founder’d,                30
+when i shall [[think]], or phœbus’ steeds are founder’d,                30
 or night kept chain’d below.
 
 _pros._                    fairly spoke.
@@ -2754,7 +2754,7 @@ _ari._ what would my potent master? here i am.
 _pros._ thou and thy meaner fellows your [[last]] service               35
 did worthily perform; and i must use you
 in such another trick. go bring the rabble,
-o’er whom i give thee power, here to this place:
+o’er whom i give thee [[power]], here to this place:
 incite them to quick motion; for i must
 bestow upon the [[eyes]] of this [[young]] couple                           40
 some vanity of mine art: it is my promise,
@@ -2791,17 +2791,17 @@ no tongue! all eyes! be silent.                  [_soft [[music]]._
 
     _enter iris._
 
-  _iris._ ceres, most bounteous lady, thy [[rich]] leas                 60
+  _iris._ ceres, most bounteous [[lady]], thy [[rich]] leas                 60
     of wheat, rye, barley, vetches, oats, and pease;
     thy turfy mountains, where [[live]] nibbling sheep,
     and flat meads thatch’d with stover, them to keep;
     thy banks with pioned and twilled brims,
     which spongy april at thy [[best]] betrims,                         65
     to make cold nymphs [[nymph]] chaste crowns; and thy broom-groves,
-    whose shadow the dismissed bachelor loves,
+    whose shadow the dismissed bachelor loves [[love]],
     being lass-lorn; thy pole-clipt vineyard;
     and thy sea-marge, sterile and rocky-hard,
-    where thou thyself dost air;--the queen o’ the sky,             70
+    where thou thyself dost air;--the queen o’ the [[sky]],             70
     whose watery arch and messenger am i,
     bids thee leave these; and with her [[sovereign]] grace,
     here on this grass-plot, in this very place,
@@ -2824,7 +2824,7 @@ no tongue! all eyes! be silent.                  [_soft [[music]]._
     on the blest lovers.
 
   _cer._             tell me, heavenly bow,
-    if [[venus]] or her son, as thou dost know,
+    if [[venus]] or her [[son]], as thou dost [[know]],
     do now attend the queen? since they did plot
     the means that dusky dis my [[daughter]] got,
     her and her blind boy’s scandal’d company                       90
@@ -2842,7 +2842,7 @@ no tongue! all eyes! be silent.                  [_soft [[music]]._
     swears he will shoot no more, but play with sparrows,          100
     and be a boy [[right]] out.
 
-  _cer._                high’st queen of state,
+  _cer._                high’st queen of [[state]],
     [[great]] juno, comes; i [[know]] her by her gait.
 
     _enter juno._
@@ -2851,7 +2851,7 @@ no tongue! all eyes! be silent.                  [_soft [[music]]._
     to bless this twain, that they may prosperous be,
     and honour’d in their issue.         [_they sing:_             105
 
-  _juno._ honour, riches, marriage-blessing,
+  _juno._ [[honour]], riches [[rich]], marriage-blessing,
             long continuance, and increasing,
             hourly joys be still upon you!
             juno sings her blessings on you.
@@ -2884,11 +2884,11 @@ juno and ceres whisper seriously;                                  125
 there’s something else to do: hush, and be mute,
 or else our spell is marr’d.
 
-  _iris._ you nymphs, call’d naiads, of the windring brooks,
+  _iris._ you nymphs [[nymph]], call’d naiads, of the windring brooks,
             with your sedged crowns [[crown]] and ever-harmless looks,
             leave your crisp channels, and on this green [[land]]      130
             [[answer]] your summons; juno does command:
-            come, temperate nymphs, and [[help]] to celebrate
+            come, temperate nymphs [[nymph]], and [[help]] to celebrate
             a contract of true love; be not too late.
 
     _enter [[certain]] nymphs [[nymph]]._
@@ -2901,7 +2901,7 @@ or else our spell is marr’d.
 
     _enter [[certain]] reapers, properly habited: they join with the
     nymphs [[nymph]] in a graceful dance; towards the end whereof prospero
-    starts suddenly, and speaks; after which, to a strange, hollow,
+    starts suddenly, and speaks; after which, to a [[strange]], hollow,
     and confused noise, they heavily vanish._
 
 _pros._ [_aside_] i had forgot that foul conspiracy
@@ -2915,7 +2915,7 @@ that works [[work]] him strongly.
 _mir._                 never till this day
 saw i him touch’d with anger so distemper’d.                       145
 
-_pros._ you do look, my son, in a moved sort,
+_pros._ you do look, my [[son]], in a moved sort,
 as if you were dismay’d: be cheerful, sir.
 our revels now are ended. these our actors,
 as i foretold you, were all spirits, and
@@ -2973,8 +2973,8 @@ for stale to catch these thieves.
 
 _ari._                          i go, i go.    [_exit._
 
-_pros._ a devil, a born devil, on whose nature
-nurture can never stick; on whom my pains,
+_pros._ a [[devil]], a born [[devil]], on whose nature
+nurture can never stick; on whom my pains [[pain]],
 humanely taken, all, all lost, quite lost;                         190
 and as with [[age]] his [[body]] uglier grows,
 so his [[mind]] cankers. i will plague them all,
@@ -3001,7 +3001,7 @@ take a displeasure against you, look you,--
 
 _trin._ thou wert but a lost monster.
 
-_cal._ [[good]] my lord, give me thy favour still.
+_cal._ [[good]] my [[lord]], give me thy favour still.
 be patient, for the prize i’ll bring thee to
 shall hoodwink this mischance: therefore speak softly.             205
 all’s hush’d as midnight yet.
@@ -3017,7 +3017,7 @@ your harmless fairy, monster.
 _ste._ i will fetch off my bottle, though i be o’er ears for
 my [[labour]].
 
-_cal._ prithee, my king, be quiet. see’st thou here,
+_cal._ prithee, my [[king]], be quiet. see’st thou here,
 this is the mouth o’ the cell: no noise, and enter.                215
 do that [[good]] mischief which may make this island
 thine own for ever, and i, thy caliban,
@@ -3060,7 +3060,7 @@ there’s another garment for’t.
 _trin._ monster, come, put some lime upon your fingers,
 and away with the rest.
 
-_cal._ i will have none on’t: we shall lose our time,              245
+_cal._ i will have none on’t: we shall lose our [[time]],              245
 and all be turn’d to barnacles, or to apes
 with foreheads villanous low.
 
@@ -3080,7 +3080,7 @@ _pros._ hey, mountain, hey!
 
 _ari._ silver! there it goes, silver!
 
-_pros._ fury, fury! there, tyrant, there! hark, hark!              255
+_pros._ fury, fury! there, [[tyrant]], there! hark, hark!              255
                         [_cal., ste., and trin. are driven out._
 
 go charge my goblins that they grind their joints
@@ -3133,7 +3133,7 @@ follow, and do me service.    [_exeunt._
   121: _from their_] f1. _from all their_ f2 f3 f4.
   123: _wife_] f1 (var.). rowe. _wise_ f1 (var.) f2 f3 f4.
   124: _makes_] _make_ [[pope]].
-  _sweet, now, silence_] _now, silence, sweet_ hanmer.
+  _sweet, now, silence_] _now, [[silence]], sweet_ hanmer.
   124: in ff. the stage direction [juno, &c. follows line 127.
     capell made the [[change]].
   128: _windring_] _winding_ rowe. _wand’ring_ steevens.
@@ -3182,7 +3182,7 @@ _pros._ now does my project gather to a head:
 my charms crack not; my spirits obey; and time
 goes upright with his carriage. how’s the day?
 
-_ari._ on the sixth hour; at which time, my lord,
+_ari._ on the sixth hour; at which [[time]], my [[lord]],
 you said our [[work]] should cease.
 
 _pros._                       i did say so,                          5
@@ -3191,13 +3191,13 @@ how fares the [[king]] and’s followers?
 
 _ari._                            confined together
 in the same [[fashion]] as you gave in charge,
-just as you left them; all prisoners, sir,
+just as you left them; all prisoners [[prisoner]], sir,
 in the line-grove which weather-fends your cell;                    10
-they cannot budge till your release. the king,
-his brother, and yours, abide all three distracted,
+they cannot budge till your release. the [[king]],
+his [[brother]], and yours, abide all three distracted,
 and the remainder mourning over them,
 brimful of [[sorrow]] and dismay; but chiefly
-him that you term’d, sir, “the [[good]] old lord, gonzalo;”             15
+him that you term’d, sir, “the [[good]] old [[lord]], gonzalo;”             15
 his tears run down his beard, like winter’s drops
 from eaves of reeds. your charm so strongly works [[work]] ’em,
 that if you now beheld them, your affections
@@ -3210,7 +3210,7 @@ _ari._ mine would, sir, were i [[human]].
 _pros._                             and mine shall.                 20
 hast thou, which art [[arts]] but air, a touch, a feeling
 of their afflictions, and shall not myself,
-one of their kind, that relish all as sharply,
+one of their [[kind]], that relish all as sharply,
 passion as they, be kindlier moved than thou art?
 though with their high wrongs [[wrong]] i am struck to the quick,             25
 yet with my nobler [[reason]] ’gainst my fury
@@ -3225,7 +3225,7 @@ _ari._                      i’ll fetch them, sir.    [_exit._
 
 _pros._ ye elves of hills, brooks, standing lakes, and groves;
 and ye that on the sands with printless foot
-do chase the ebbing neptune, and do fly him                         35
+do chase the ebbing [[neptune]], and do fly him                         35
 when he comes back; you demi-puppets that
 by moonshine do the green sour ringlets make,
 whereof the ewe not bites; and you whose pastime
@@ -3235,17 +3235,17 @@ weak masters though ye be--i have bedimm’d
 the noontide sun, call’d forth the mutinous winds.
 and ’twixt the green sea and the azured vault
 set roaring war: to the dread rattling thunder
-have i given fire, and rifted jove’s stout oak                      45
+have i given [[fire]], and rifted jove’s stout oak                      45
 with his own bolt; the strong-based promontory
 have i made shake, and by the spurs pluck’d up
 the pine and cedar: graves at my command
 have waked their sleepers, oped, and let ’em forth
 by my so potent art [[arts]]. but this rough magic                           50
 i here abjure; and, when i have required
-some heavenly music,--which even now i do,--
+some heavenly [[music]],--which even now i do,--
 to [[work]] mine end upon their senses, that
 this airy charm is for, i’ll break my staff,
-bury it [[certain]] fathoms in the earth,                               55
+bury it [[certain]] fathoms in the [[earth]],                               55
 and deeper than did ever plummet sound
 i’ll drown my [[book]].                    [_solemn [[music]]._
 
@@ -3259,8 +3259,8 @@ a solemn air, and the [[best]] comforter
 to an unsettled fancy, cure thy brains,
 now useless, boil’d within thy skull! there stand,                  60
 for you are spell-stopp’d.
-holy gonzalo, honourable man,
-mine eyes, even sociable to the show of thine,
+holy gonzalo, honourable [[man]],
+mine [[eyes]], even sociable to the show of thine,
 fall fellowly drops. the charm dissolves apace;
 and as the morning steals upon the night,                           65
 melting the darkness, so their rising senses
@@ -3271,10 +3271,10 @@ to him thou follow’st! i will [[pay]] thy graces                        70
 home both in word and deed. most cruelly
 didst thou, alonso, use me and my daughter:
 thy [[brother]] was a furtherer in the act.
-thou art [[arts]] pinch’d for’t now, sebastian. flesh and blood,
-you, [[brother]] mine, that entertain’d ambition,                       75
+thou art [[arts]] pinch’d for’t now, sebastian. flesh and [[blood]],
+you, [[brother]] mine, that entertain’d [[ambition]],                       75
 expell’d remorse and nature; who, with sebastian,--
-whose inward pinches therefore are most strong,--
+whose inward pinches therefore are most [[strong]],--
 would here have kill’d your king; i do [[forgive]] thee,
 unnatural though thou art [[arts]]. their understanding
 begins to swell; and the approaching tide                           80
@@ -3311,7 +3311,7 @@ _gon._ all torment, trouble, wonder and amazement
 inhabits here: some heavenly [[power]] guide us                        105
 out of this fearful country!
 
-_pros._                    behold, sir king,
+_pros._                    behold, sir [[king]],
 the wronged duke of milan, prospero:
 for more assurance that a living prince
 does now speak to thee, i embrace thy body;
@@ -3323,14 +3323,14 @@ or some enchanted trifle to [[abuse]] me,
 as late i have been, i not know: thy pulse
 beats, as of flesh and blood; and, since i saw thee,
 the affliction of my [[mind]] amends, with which,                      115
-i fear, a madness held me: this must crave--
+i [[fear]], a madness held me: this must crave--
 an if this be at all--a most [[strange]] story.
 thy dukedom i resign, and do entreat
 thou pardon me my wrongs [[wrong]]. --but how should prospero
 be living and be here?
 
 _pros._              first, [[noble]] friend,                          120
-let me embrace thine age, whose [[honour]] cannot
+let me embrace thine [[age]], whose [[honour]] cannot
 be measured or confined.
 
 _gon._                 whether this be
@@ -3340,7 +3340,7 @@ _pros._                  you do yet taste
 some subtilties o’ the isle, that will not let you
 believe things [[certain]]. welcome, my [[friends]] all!                   125
 [_aside to seb. and ant._]
-    but you, my brace of lords, were i so minded,
+    but you, my brace of lords [[lord]], were i so minded,
 i here could pluck his highness’ frown upon you,
 and justify you traitors: at this time
 i will tell no tales.
@@ -3350,8 +3350,8 @@ _seb._ [_aside_]    the [[devil]] speaks in him.
 _pros._                                    no.
 for you, most wicked sir, whom to call [[brother]]                     130
 would even infect my mouth, i do forgive
-thy rankest fault,--all of them; and require
-my dukedom of thee, which perforce, i know,
+thy rankest [[fault]],--all of them; and require
+my dukedom of thee, which perforce, i [[know]],
 thou must restore.
 
 _alon._          if thou be’st prospero,
@@ -3367,7 +3367,7 @@ _alon._ irreparable is the loss; and patience                      140
 says it is [[past]] her cure.
 
 _pros._                 i rather think
-you have not sought her help, of whose soft grace
+you have not sought her [[help]], of whose soft grace
 for the like loss i have her [[sovereign]] aid,
 and rest myself content.
 
@@ -3379,15 +3379,15 @@ than you may call to comfort you, for i
 have lost my [[daughter]].
 
 _alon._              a daughter?
-o heavens, that they were living both in naples,
+o heavens [[heaven]], that they were living both in naples,
 the [[king]] and queen there! that they were, i [[wish]]                   150
 myself were mudded in that oozy bed
 where my [[son]] lies [[lie]]. when did you lose you daughter?
 
 _pros._ in this [[last]] tempest. i perceive, these lords
-at this encounter do so much admire,
-that they devour their reason, and scarce [[think]]                    155
-their [[eyes]] do offices of truth, their words
+at this encounter do so much [[admire]],
+that they devour their [[reason]], and scarce [[think]]                    155
+their [[eyes]] do offices of [[truth]], their words
 are [[natural]] breath: but, howsoe’er you have
 been justled from your senses, [[know]] for certain
 that i am prospero, and that very duke
@@ -3406,9 +3406,9 @@ as much as me my dukedom.
 
   _here prospero discovers ferdinand and miranda playing at chess._
 
-_mir._ sweet lord, you play me false.
+_mir._ sweet [[lord]], you play me false.
 
-_fer._                              no, my dear’st love,
+_fer._                              no, my dear’st [[love]],
 i would not for the [[world]].
 
 _mir._ yes, for a score of kingdoms [[kingdom]] you should wrangle,
@@ -3429,7 +3429,7 @@ arise, and say how thou camest here.
 
 _mir._                             o, wonder!
 how many goodly creatures are there here!
-how beauteous [[mankind]] is! o brave new world,
+how beauteous [[mankind]] is! o brave new [[world]],
 that has such [[people]] in’t!
 
 _pros._                  ’tis new to thee.
@@ -3442,7 +3442,7 @@ and brought us thus together?
 _fer._                      sir, she is mortal;
 but by [[immortal]] providence she’s mine:
 i chose her when i could not ask my [[father]]                         190
-for his advice, nor [[thought]] i had one. she
+for his [[advice]], nor [[thought]] i had one. she
 is [[daughter]] to this famous duke of milan,
 of whom so often i have heard renown,
 but never saw before; of whom i have
@@ -3470,7 +3470,7 @@ should become kings [[king]] of naples? o, rejoice
 beyond a [[common]] joy! and set it down
 with gold on lasting pillars: in one voyage
 did claribel her husband find at tunis,
-and ferdinand, her brother, found a [[wife]]                           210
+and ferdinand, her [[brother]], found a [[wife]]                           210
 where he himself was lost, prospero his dukedom
 in a [[poor]] isle, and all of us ourselves
 when no [[man]] was his own.
@@ -3485,7 +3485,7 @@ _gon._                    be it so! amen!                          215
   following._
 
 o, look, sir, look, sir! here is more of us:
-i prophesied, if a gallows were on land,
+i prophesied, if a gallows were on [[land]],
 this fellow could not drown. now, blasphemy,
 that swear’st grace o’erboard, not an oath on shore?
 hast thou no mouth by land? what is the news?                      220
@@ -3504,7 +3504,7 @@ _pros._ [_aside to ari._] my tricksy spirit!
 _alon._ these are not [[natural]] events; they strengthen
 from [[strange]] to stranger. say, how came you hither?
 
-_boats._ if i did think, sir, i were well awake,
+_boats._ if i did [[think]], sir, i were well awake,
 i’ld strive to tell you. we were [[dead]] of sleep,                    230
 and--how we [[know]] not--all clapp’d under hatches;
 where, but even now, with [[strange]] and several noises
@@ -3512,9 +3512,9 @@ of roaring, shrieking, howling, jingling chains,
 and more [[diversity]] of sounds, all horrible,
 we were awaked; straightway, at liberty;                           235
 where we, in all her trim, freshly beheld
-our royal, good, and gallant ship; our master
+our [[royal]], [[good]], and gallant ship; our master
 capering to eye her:--on a trice, so please you,
-even in a dream, were we divided from them,
+even in a [[dream]], were we divided from them,
 and were brought moping hither.
 
 _ari._ [_aside to pros._] was’t well done?                         240
@@ -3558,9 +3558,9 @@ what things are these, my [[lord]] antonio?
 will [[money]] buy ’em?
 
 _ant._            very like; one of them                           265
-is a plain fish, and, no doubt, marketable.
+is a plain fish, and, no [[doubt]], marketable.
 
-_pros._ mark but the badges of these men, my lords,
+_pros._ mark but the badges of these [[men]], my lords [[lord]],
 then say if they be true. this mis-shapen knave,
 his [[mother]] was a witch; and one so strong
 that could control the moon, make flows and ebbs,                  270
@@ -3603,7 +3603,7 @@ to have my pardon, trim it handsomely.
 
 _cal._ ay, that i will; and i’ll be [[wise]] hereafter,
 and seek for grace. what a thrice-double ass                       295
-was i, to take this drunkard for a god,
+was i, to take this drunkard for a [[god]],
 and [[worship]] this dull fool!
 
 _pros._                go to; away!
@@ -3615,8 +3615,8 @@ _seb._ or stole it, rather.    [_exeunt cal., ste., and trin._
 _pros._ sir, i invite your highness and your train                 300
 to my [[poor]] cell, where you shall take your rest
 for this one night; which, part of it, i’ll waste
-with such discourse as, i not doubt, shall make it
-go quick away: the story of my life,
+with such discourse as, i not [[doubt]], shall make it
+go quick away: the story of my [[life]],
 and the particular accidents gone by                               305
 since i came to this isle: and in the morn
 i’ll bring you to your ship, and so to naples,
@@ -3626,7 +3626,7 @@ and thence retire me to my milan, where                            310
 every third [[thought]] shall be my grave.
 
 _alon._                              i long
-to hear the story of your life, which must
+to hear the story of your [[life]], which must
 take the ear strangely.
 
 _pros._               i’ll deliver all;
@@ -3634,7 +3634,7 @@ and promise you calm seas, auspicious gales,
 and sail so expeditious, that shall catch
 your [[royal]] fleet far off. [_aside to ari._] my ariel, chick,       315
 that is thy charge: then to the elements
-be free, and fare thou well! please you, draw near.
+be [[free]], and fare thou well! please you, draw near.
     [_exeunt._
 
 
@@ -3661,7 +3661,7 @@ be free, and fare thou well! please you, draw near.
   68: _o_] _o my_ [[pope]]. _o thou_ s. walker conj.
   69: _sir_] _servant_ collier ms.
   72: _didst_] f3 f4. _did_ f1 f2.
-  74: _sebastian. flesh and blood,_] _sebastian, flesh and [[blood]]._
+  74: _sebastian. flesh and [[blood]],_] _sebastian, flesh and [[blood]]._
     theobald.
   75: _entertain’d_] _entertaine_ f1.
   76: _who_] rowe. _whom_ ff.
@@ -3713,7 +3713,7 @@ be free, and fare thou well! please you, draw near.
   256: scene vi. [[pope]].
   258: _coragio_] _corasio_ f1.
   268: _mis-shapen_] _mis-shap’d_ [[pope]].
-  271: _command, without her [[power]]._] _command. without her power,_
+  271: _command, without her [[power]]._] _command. without her [[power]],_
     anon. conj.
   _without_] _with all_ collier ms.
   280: _liquor_] _’lixir_ theobald.
@@ -3772,8 +3772,8 @@ note i.
 i. 1. 15. _what cares [[care]] these roarers._ this grammatical inaccuracy, which
 escaped correction in the later folios, probably came from shakespeare’s
 pen. similar cases occur frequently, especially when the verb precedes
-its nominative. for example, _tempest_, iv. 1. 262, ‘lies at my mercy
-all mine enemies,’ and _measure for measure_, ii. 1. 22, ‘what knows [[know]] the
+its nominative. for [[example]], _tempest_, iv. 1. 262, ‘lies at my mercy
+all mine enemies [[enemy]],’ and _measure for measure_, ii. 1. 22, ‘what knows [[know]] the
 laws, &c.’ we [[correct]] it in those passages where the occurrence of a
 vulgarism would be likely to annoy the reader. in the mouth of a
 boatswain it can offend no one. we therefore leave it.
@@ -3874,15 +3874,15 @@ note vii.
 ii. 1. 27. _which, of he or adrian._ ‘of’ is found in the same
 construction, _midsummer night’s dream_, iii. 2. 336,
 
-  ‘now [[follow]] if thou darest to try whose right,
+  ‘now [[follow]] if thou darest to try whose [[right]],
   of thine or mine, is most in helena.’
 
 
 note viii.
 
-ii. 1. 157. _of its own [[kind]]._ there is no doubt, as dr guest has shewn,
+ii. 1. 157. _of its own [[kind]]._ there is no [[doubt]], as dr guest has shewn,
 that ‘it,’ which is the reading of the 1st and 2nd folios, was commonly
-used as a genitive in shakespeare’s time, as it is still in some
+used as a genitive in shakespeare’s [[time]], as it is still in some
 provincial dialects. ‘its,’ however, was coming into use. one instance
 occurs in this play, i. 11. 95, ‘in its contrary.’
 
@@ -3890,7 +3890,7 @@ occurs in this play, i. 11. 95, ‘in its contrary.’
 note ix.
 
 ii. 1. 241. _she that from whom._ mr spedding writes: ‘the received
-emendation is not satisfactory to me. i would rather read, “she
+emendation is not satisfactory to me. i would rather [[read]], “she
 that--from whom? all were sea-swallow’d &c., i.e. from whom should she
 have note? the report from naples will be that all were drowned. we
 shall be the only survivors.” the break in the construction seems to me
@@ -3925,7 +3925,7 @@ entrusted with the office of bottle-bearer.
 note xiii.
 
 iii. 1. 15. _most busy lest, when i do it._ as none of the proposed
-emendations can be regarded as certain, we have left the reading of f1,
+emendations can be regarded as [[certain]], we have left the reading of f1,
 though it is manifestly [[corrupt]]. the spelling ‘doe’ makes mr spedding’s
 conjecture ‘idlest’ for ‘i doe it’ more probable.
 
@@ -3950,8 +3950,8 @@ fletcher, _the [[noble]] gentleman_, i. 1. (vol. ii. p. 261, ed. moxon):
 
 note xvi.
 
-iv. 1. 146. _you do look, my son, in a moved sort._ seymour suggests a
-transposition: ‘you do, my son, look in a moved sort.’ this line however
+iv. 1. 146. _you do look, my [[son]], in a moved sort._ seymour suggests a
+transposition: ‘you do, my [[son]], look in a moved sort.’ this line however
 can scarcely have come from shakespeare’s pen. perhaps the writer who
 composed the masque was allowed to join it, as [[best]] he might, to
 shakespeare’s words, which re-commence at ‘our revels now are ended,’

@@ -73,7 +73,7 @@ performed by the clowns
 other fairies attending their [[king]] and queen
 attendants on theseus and hippolyta
 
-scene: athens, and a wood not far from it
+scene: [[athens]], and a wood not far from it
 
 
 
@@ -87,7 +87,7 @@ theseus.
 now, [[fair]] hippolyta, our nuptial hour
 draws on apace; four [[happy]] days bring in
 another moon; but oh, methinks, how slow
-this old moon wanes! she lingers my desires,
+this old moon wanes! she lingers my desires [[desire]],
 like to a step-dame or a dowager,
 long withering out a [[young]] man’s [[revenue]].
 
@@ -95,7 +95,7 @@ hippolyta.
 four days will quickly steep themselves in night;
 four nights will quickly [[dream]] away the time;
 and then the moon, like to a silver bow
-new bent in heaven, shall behold the night
+new bent in [[heaven]], shall behold the night
 of our solemnities.
 
 theseus.
@@ -107,7 +107,7 @@ the pale companion is not for our pomp.
 
  [_exit philostrate._]
 
-hippolyta, i woo’d thee with my sword,
+hippolyta, i woo’d thee with my [[sword]],
 and won thy [[love]] doing thee injuries;
 but i will wed thee in another key,
 with pomp, with triumph, and with revelling.
@@ -123,7 +123,7 @@ thanks, [[good]] egeus. what’s the news with thee?
 egeus.
 full of vexation come i, with complaint
 against my child, my [[daughter]] hermia.
-stand forth, demetrius. my [[noble]] lord,
+stand forth, demetrius. my [[noble]] [[lord]],
 this [[man]] hath my [[consent]] to [[marry]] her.
 stand forth, lysander. and, my gracious duke,
 this [[man]] hath bewitch’d the bosom of my child.
@@ -135,7 +135,7 @@ and stol’n the impression of her fantasy
 with bracelets of thy hair, rings, gauds, conceits,
 knacks, trifles, nosegays, sweetmeats (messengers
 of [[strong]] prevailment in unharden’d youth)
-with cunning hast thou filch’d my daughter’s heart,
+with cunning hast thou filch’d my daughter’s [[heart]],
 turn’d her [[obedience]] (which is due to me)
 to stubborn harshness. and, my gracious duke,
 be it so she will not here before your grace
@@ -143,13 +143,13 @@ consent to [[marry]] with demetrius,
 i beg the ancient [[privilege]] of athens:
 as she is mine i may dispose of her;
 which shall be either to this gentleman
-or to her death, according to our law
+or to her [[death]], according to our law
 immediately provided in that case.
 
 theseus.
 what say you, hermia? be advis’d, [[fair]] maid.
 to you your [[father]] should be as a god;
-one that compos’d your beauties, yea, and one
+one that compos’d your beauties [[beauty]], yea, and one
 to whom you are but as a form in wax
 by him imprinted, and within his power
 to leave the figure, or disfigure it.
@@ -160,7 +160,7 @@ so is lysander.
 
 theseus.
 in himself he is.
-but in this kind, wanting your father’s voice,
+but in this [[kind]], wanting your father’s voice,
 the other must be held the worthier.
 
 hermia.
@@ -179,23 +179,23 @@ the worst that may befall me in this case,
 if i refuse to wed demetrius.
 
 theseus.
-either to [[die]] the death, or to abjure
+either to [[die]] the [[death]], or to abjure
 for ever the [[society]] of [[men]].
-therefore, [[fair]] hermia, [[question]] your desires,
-know of your youth, examine well your blood,
-whether, if you yield not to your father’s choice,
+therefore, [[fair]] hermia, [[question]] your desires [[desire]],
+know of your [[youth]], examine well your [[blood]],
+whether, if you yield not to your father’s [[choice]],
 you can endure the livery of a nun,
 for aye to be in shady cloister mew’d,
-to [[live]] a barren sister all your life,
+to [[live]] a barren sister all your [[life]],
 chanting faint hymns to the cold fruitless moon.
 thrice-blessèd they that master so their blood
 to undergo such maiden pilgrimage,
 but earthlier [[happy]] is the rose distill’d
 than that which, withering on the virgin thorn,
-grows, lives, and dies, in [[single]] blessedness.
+grows, lives [[life]], and dies, in [[single]] blessedness.
 
 hermia.
-so will i grow, so live, so die, my lord,
+so will i grow, so [[live]], so [[die]], my [[lord]],
 ere i will yield my virgin patent up
 unto his lordship, whose unwishèd yoke
 my [[soul]] consents not to give sovereignty.
@@ -215,7 +215,7 @@ relent, sweet hermia; and, lysander, yield
 thy crazèd title to my [[certain]] [[right]].
 
 lysander.
-you have her father’s love, demetrius.
+you have her father’s [[love]], demetrius.
 let me have hermia’s. do you [[marry]] him.
 
 egeus.
@@ -225,7 +225,7 @@ and she is mine, and all my [[right]] of her
 i do estate unto demetrius.
 
 lysander.
-i am, my lord, as well deriv’d as he,
+i am, my [[lord]], as well deriv’d as he,
 as well possess’d; my [[love]] is more than his;
 my fortunes [[fortune]] every way as fairly rank’d,
 if not with vantage, as demetrius’;
@@ -233,8 +233,8 @@ and, which is more than all these boasts can be,
 i am belov’d of beauteous hermia.
 why should not i then prosecute my right?
 demetrius, i’ll avouch it to his head,
-made [[love]] to nedar’s daughter, helena,
-and won her soul; and she, sweet lady, dotes,
+made [[love]] to nedar’s [[daughter]], helena,
+and won her soul; and she, sweet [[lady]], dotes,
 devoutly dotes, dotes in idolatry,
 upon this spotted and inconstant [[man]].
 
@@ -249,7 +249,7 @@ for you, [[fair]] hermia, look you arm yourself
 to fit your fancies to your father’s will,
 or else the [[law]] of [[athens]] yields you up
 (which by no means we may extenuate)
-to death, or to a vow of [[single]] [[life]].
+to [[death]], or to a vow of [[single]] [[life]].
 come, my hippolyta. what cheer, my love?
 demetrius and egeus, go along;
 i must employ you in some business
@@ -270,8 +270,8 @@ belike for want of rain, which i could well
 beteem them from the tempest of my [[eyes]].
 
 lysander.
-ay me! for aught that i could ever read,
-could ever hear by tale or history,
+ay me! for aught that i could ever [[read]],
+could ever hear by tale or [[history]],
 the course of true [[love]] never did run smooth.
 but either it was different in blood—
 
@@ -291,12 +291,12 @@ hermia.
 o hell! to choose [[love]] by another’s eyes!
 
 lysander.
-or, if there were a sympathy in choice,
-war, death, or sickness did lay siege to it,
+or, if there were a sympathy in [[choice]],
+war, [[death]], or sickness did lay siege to it,
 making it momentany as a sound,
-swift as a shadow, short as any dream,
+swift as a shadow, short as any [[dream]],
 brief as the lightning in the collied night
-that, in a spleen, unfolds both [[heaven]] and earth,
+that, in a spleen, unfolds both [[heaven]] and [[earth]],
 and, ere a [[man]] hath [[power]] to say, ‘behold!’
 the jaws of darkness do devour it up:
 so quick bright things come to confusion.
@@ -312,7 +312,7 @@ wishes and tears, [[poor]] fancy’s followers.
 lysander.
 a [[good]] persuasion; therefore, hear me, hermia.
 i have a widow aunt, a dowager
-of [[great]] revenue, and she hath no child.
+of [[great]] [[revenue]], and she hath no child.
 from [[athens]] is her house remote seven leagues,
 and she respects [[respect]] me as her only [[son]].
 there, gentle hermia, may i [[marry]] thee,
@@ -329,7 +329,7 @@ my [[good]] lysander!
 i swear to thee by cupid’s strongest bow,
 by his [[best]] arrow with the golden head,
 by the simplicity of venus’ doves,
-by that which knitteth souls [[soul]] and prospers loves,
+by that which knitteth souls [[soul]] and prospers loves [[love]],
 and by that [[fire]] which burn’d the [[carthage]] queen
 when the false trojan under sail was seen,
 by all the vows that ever [[men]] have broke
@@ -376,7 +376,7 @@ hermia.
 the more i hate, the more he follows me.
 
 helena.
-the more i love, the more he hateth me.
+the more i [[love]], the more he hateth me.
 
 hermia.
 his folly, helena, is no [[fault]] of mine.
@@ -402,10 +402,10 @@ through athens’ gates have we devis’d to steal.
 
 hermia.
 and in the wood where often you and i
-upon faint primrose beds were wont to lie,
+upon faint primrose beds were wont to [[lie]],
 emptying our bosoms of their counsel sweet,
 there my lysander and myself shall meet,
-and thence from [[athens]] turn away our eyes,
+and thence from [[athens]] turn away our [[eyes]],
 to seek new [[friends]] and stranger companies.
 farewell, sweet playfellow. [[pray]] thou for us,
 and [[good]] [[luck]] grant thee thy demetrius!
@@ -427,27 +427,27 @@ how [[happy]] some o’er other some can be!
 through [[athens]] i am [[thought]] as [[fair]] as she.
 but what of that? demetrius thinks [[think]] not so;
 he will not [[know]] what all but he do [[know]].
-and as he errs, doting on hermia’s eyes,
+and as he errs, doting on hermia’s [[eyes]],
 so i, admiring of his qualities.
 things base and vile, holding no quantity,
 love can transpose to form and [[dignity]].
-love looks not with the eyes, but with the mind;
+love looks not with the [[eyes]], but with the mind;
 and therefore is wing’d cupid painted blind.
 nor hath love’s [[mind]] of any [[judgment]] taste.
-wings, and no eyes, figure unheedy haste.
+wings, and no [[eyes]], figure unheedy haste.
 and therefore is [[love]] said to be a child,
 because in [[choice]] he is so oft beguil’d.
 as waggish boys in game themselves forswear,
 so the boy [[love]] is perjur’d everywhere.
 for, ere demetrius look’d on hermia’s eyne,
 he hail’d down oaths that he was only mine;
-and when this hail some heat from hermia felt,
+and when this hail some heat from hermia [[felt]],
 so he dissolv’d, and showers of oaths did melt.
 i will go tell him of [[fair]] hermia’s flight.
 then to the wood will he tomorrow night
 pursue her; and for this intelligence
 if i have thanks, it is a dear expense.
-but herein mean i to enrich my pain,
+but herein mean i to enrich my [[pain]],
 to have his sight thither and back again.
 
  [_exit helena._]
@@ -461,12 +461,12 @@ quince.
 is all our company here?
 
 bottom.
-you were [[best]] to call them generally, [[man]] by man, according to the
+you were [[best]] to call them generally, [[man]] by [[man]], according to the
 scrip.
 
 quince.
 here is the scroll of every man’s name, which is [[thought]] fit through
-all athens, to play in our interlude before the duke and duchess, on
+all [[athens]], to play in our interlude before the duke and duchess, on
 his wedding-day at night.
 
 bottom.
@@ -478,7 +478,7 @@ marry, our play is _the most lamentable comedy and most cruel [[death]] of
 pyramus and thisbe_.
 
 bottom.
-a very [[good]] piece of work, i assure you, and a merry. now, [[good]] peter
+a very [[good]] piece of [[work]], i assure you, and a merry. now, [[good]] peter
 quince, call forth your actors by the scroll. masters, spread
 yourselves.
 
@@ -531,7 +531,7 @@ quince.
 it is the [[lady]] that pyramus must [[love]].
 
 flute.
-nay, faith, let not me play a woman. i have a beard coming.
+nay, [[faith]], let not me play a woman. i have a beard coming.
 
 quince.
 that’s all one. you shall play it in a mask, and you may speak as small
@@ -586,7 +586,7 @@ all
 that would hang us every mother’s [[son]].
 
 bottom.
-i grant you, friends, if you should fright the ladies [[lady]] out of their
+i grant you, [[friends]], if you should fright the ladies [[lady]] out of their
 wits, they would have no more discretion but to hang us. but i will
 aggravate my voice so, that i will roar you as gently as any sucking
 dove; i will roar you an ’twere any nightingale.
@@ -612,13 +612,13 @@ some of your french crowns [[crown]] have no hair at all, and then you will play
 bare-faced. but, masters, here are your parts, and i am to entreat you,
 request you, and [[desire]] you, to con them by tomorrow night; and meet me
 in the palace wood, a mile without the town, by moonlight; there will
-we rehearse, for if we meet in the city, we shall be dogg’d with
+we rehearse, for if we meet in the [[city]], we shall be dogg’d with
 company, and our devices known. in the meantime i will draw a bill of
 properties, such as our play wants. i [[pray]] you fail me not.
 
 bottom.
 we will meet, and there we may rehearse most obscenely and
-courageously. take pains, be perfect; adieu.
+courageously. take pains [[pain]], be perfect; adieu.
 
 quince.
 at the duke’s oak we meet.
@@ -642,7 +642,7 @@ fairy
     over hill, over dale,
         thorough bush, thorough brier,
     over park, over pale,
-        thorough flood, thorough fire,
+        thorough flood, thorough [[fire]],
     i do wander everywhere,
     swifter than the moon’s sphere;
     and i serve the fairy queen,
@@ -682,7 +682,7 @@ and bootless make the breathless housewife churn,
 and sometime make the drink to bear no barm,
 mislead night-wanderers, laughing at their harm?
 those that hobgoblin call you, and sweet puck,
-you do their work, and they shall have [[good]] [[luck]].
+you do their [[work]], and they shall have [[good]] [[luck]].
 are not you he?
 
 puck.
@@ -726,9 +726,9 @@ when thou hast stol’n away from fairyland,
 and in the shape of corin sat all day
 playing on pipes of corn, and versing love
 to amorous phillida. why art [[arts]] thou here,
-come from the farthest steep of india,
+come from the farthest steep of [[india]],
 but that, forsooth, the bouncing amazon,
-your buskin’d mistress and your warrior love,
+your buskin’d mistress and your warrior [[love]],
 to theseus must be wedded; and you come
 to give their bed joy and prosperity?
 
@@ -738,7 +738,7 @@ glance at my credit with hippolyta,
 knowing i [[know]] thy [[love]] to theseus?
 didst not thou lead him through the glimmering night
 from perigenia, whom he ravished?
-and make him with [[fair]] aegles break his faith,
+and make him with [[fair]] aegles break his [[faith]],
 with ariadne and antiopa?
 
 titania.
@@ -749,12 +749,12 @@ by pavèd fountain, or by rushy brook,
 or on the beachèd margent of the sea,
 to dance our ringlets to the whistling wind,
 but with thy brawls thou hast disturb’d our [[sport]].
-therefore the winds, piping to us in vain,
-as in revenge, have suck’d up from the sea
-contagious fogs; which, falling in the land,
+therefore the winds, piping to us in [[vain]],
+as in [[revenge]], have suck’d up from the sea
+contagious fogs; which, falling in the [[land]],
 hath every pelting river made so proud
 that they have overborne their continents.
-the ox hath therefore stretch’d his yoke in vain,
+the ox hath therefore stretch’d his yoke in [[vain]],
 the ploughman lost his sweat, and the green corn
 hath rotted ere his [[youth]] attain’d a beard.
 the fold stands empty in the drownèd field,
@@ -774,7 +774,7 @@ and on old hiems’ thin and icy crown
 an odorous chaplet of sweet summer buds
 is, as in mockery, set. the spring, the summer,
 the childing autumn, angry winter, change
-their wonted liveries; and the mazed world,
+their wonted liveries; and the mazed [[world]],
 by their increase, now knows [[know]] not which is which.
 and this same progeny of evils [[evil]] comes
 from our debate, from our dissension;
@@ -798,9 +798,9 @@ when we have laugh’d to see the sails conceive,
 and grow big-bellied with the wanton wind;
 which she, with pretty and with swimming gait
 following (her womb then [[rich]] with my [[young]] squire),
-would imitate, and sail upon the land,
+would imitate, and sail upon the [[land]],
 to fetch me trifles, and return again,
-as from a voyage, [[rich]] with merchandise.
+as from a [[voyage]], [[rich]] with merchandise.
 but she, being mortal, of that boy did die;
 and for her sake do i rear up her boy,
 and for her sake i will not part with him.
@@ -839,7 +839,7 @@ i [[remember]].
 
 oberon.
 that very [[time]] i saw, (but thou couldst not),
-flying between the cold moon and the earth,
+flying between the cold moon and the [[earth]],
 cupid all arm’d: a [[certain]] aim he took
 at a [[fair]] vestal, thronèd by the west,
 and loos’d his love-shaft smartly from his bow
@@ -908,7 +908,7 @@ the more you beat me, i will fawn on you.
 use me but as your spaniel, spurn me, strike me,
 neglect me, lose me; only give me leave,
 unworthy as i am, to [[follow]] you.
-what worser place can i beg in your love,
+what worser place can i beg in your [[love]],
 (and yet a place of high [[respect]] with me)
 than to be usèd as you use your dog?
 
@@ -932,7 +932,7 @@ your [[virtue]] is my privilege: for that.
 it is not night when i do see your face,
 therefore i [[think]] i am not in the night;
 nor doth this wood lack worlds [[world]] of company,
-for you, in my respect, are all the [[world]].
+for you, in my [[respect]], are all the [[world]].
 then how can it be said i am alone
 when all the [[world]] is here to look on me?
 
@@ -988,7 +988,7 @@ there sleeps titania sometime of the night,
 lull’d in these flowers with dances and delight;
 and there the snake throws her enamell’d skin,
 weed wide enough to wrap a fairy in.
-and with the juice of this i’ll streak her eyes,
+and with the juice of this i’ll streak her [[eyes]],
 and make her full of hateful fantasies.
 take thou some of it, and seek through this grove:
 a sweet athenian [[lady]] is in love
@@ -996,12 +996,12 @@ with a disdainful [[youth]]. anoint his eyes;
 but do it when the next thing he espies
 may be the [[lady]]. thou shalt [[know]] the man
 by the athenian garments he hath on.
-effect it with some care, that he may prove
+effect it with some [[care]], that he may prove
 more fond on her than she upon her love:
 and look thou meet me ere the first cock crow.
 
 puck.
-fear not, my lord, your servant shall do so.
+fear not, my [[lord]], your servant shall do so.
 
  [_exeunt._]
 
@@ -1025,7 +1025,7 @@ fairies sing.
 first fairy.
     you spotted snakes with double tongue,
        thorny hedgehogs, be not seen;
-    newts and blind-worms do no wrong,
+    newts and blind-worms do no [[wrong]],
        come not near our fairy queen:
 
 chorus.
@@ -1071,9 +1071,9 @@ wake when some vile thing is near.
  enter lysander and hermia.
 
 lysander.
-fair love, you faint with wand’ring in the wood.
+fair [[love]], you faint with wand’ring in the wood.
 and, to speak troth, i have forgot our way.
-we’ll rest us, hermia, if you [[think]] it good,
+we’ll rest us, hermia, if you [[think]] it [[good]],
 and tarry for the comfort of the day.
 
 hermia.
@@ -1082,7 +1082,7 @@ for i upon this bank will rest my head.
 
 lysander.
 one turf shall serve as pillow for us both;
-one heart, one bed, two bosoms, and one troth.
+one [[heart]], one bed, two bosoms, and one troth.
 
 hermia.
 nay, [[good]] lysander; for my sake, my dear,
@@ -1100,7 +1100,7 @@ for lying so, hermia, i do not [[lie]].
 
 hermia.
 lysander riddles very prettily.
-now much beshrew my manners and my pride,
+now much beshrew my manners and my [[pride]],
 if hermia meant to say lysander lied!
 but, gentle friend, for [[love]] and courtesy
 lie further off, in [[human]] modesty,
@@ -1132,7 +1132,7 @@ this is he, my master said,
 despisèd the athenian maid;
 and here the maiden, sleeping sound,
 on the dank and dirty ground.
-pretty soul, she durst not lie
+pretty [[soul]], she durst not lie
 near this lack-love, this kill-courtesy.
 churl, upon thy [[eyes]] i throw
 all the [[power]] this charm doth owe;
@@ -1162,7 +1162,7 @@ stay, on thy peril; i alone will go.
 helena.
 o, i am out of breath in this fond chase!
 the more my prayer, the lesser is my grace.
-happy is hermia, wheresoe’er she lies,
+happy is hermia, wheresoe’er she lies [[lie]],
 for she hath blessèd and attractive [[eyes]].
 how came her [[eyes]] so bright? not with salt tears.
 if so, my [[eyes]] are oftener wash’d than hers.
@@ -1173,19 +1173,19 @@ do, as a monster, fly my presence thus.
 what wicked and dissembling glass of mine
 made me compare with hermia’s sphery eyne?
 but who is here? lysander, on the ground!
-dead or asleep? i see no blood, no wound.
-lysander, if you live, [[good]] sir, awake.
+dead or asleep? i see no [[blood]], no wound.
+lysander, if you [[live]], [[good]] sir, awake.
 
 lysander.
 [_waking._] and run through [[fire]] i will for thy sweet sake.
-transparent helena! [[nature]] shows art,
+transparent helena! [[nature]] shows art [[arts]],
 that through thy bosom makes me see thy [[heart]].
 where is demetrius? o, how fit a word
 is that vile name to perish on my sword!
 
 helena.
 do not say so, lysander, say not so.
-what though he [[love]] your hermia? lord, what though?
+what though he [[love]] your hermia? [[lord]], what though?
 yet hermia still loves [[love]] you. then be content.
 
 lysander.
@@ -1196,20 +1196,20 @@ who will not [[change]] a raven for a dove?
 the will of [[man]] is by his [[reason]] sway’d,
 and [[reason]] says you are the worthier maid.
 things growing are not ripe until their season;
-so i, being young, till now ripe not to reason;
-and touching now the point of [[human]] skill,
+so i, being [[young]], till now ripe not to reason;
+and touching now the point of [[human]] [[skill]],
 reason becomes the marshal to my will,
-and leads me to your eyes, where i o’erlook
+and leads me to your [[eyes]], where i o’erlook
 love’s stories, written in love’s richest [[book]].
 
 helena.
 wherefore was i to this keen mockery born?
 when at your hands did i deserve this scorn?
-is’t not enough, is’t not enough, [[young]] man,
+is’t not enough, is’t not enough, [[young]] [[man]],
 that i did never, no, nor never can
 deserve a sweet look from demetrius’ eye,
 but you must flout my insufficiency?
-good troth, you do me wrong, [[good]] sooth, you do,
+good troth, you do me [[wrong]], [[good]] sooth, you do,
 in such disdainful manner me to woo.
 but fare you well; perforce i must confess,
 i [[thought]] you [[lord]] of more true gentleness.
@@ -1227,7 +1227,7 @@ or as the heresies that [[men]] do leave
 are hated most of those they did deceive;
 so thou, my surfeit and my heresy,
 of all be hated, but the most of me!
-and, all my powers, address your [[love]] and might
+and, all my powers [[power]], address your [[love]] and might
 to [[honour]] helen, and to be her knight!
 
  [_exit._]
@@ -1285,7 +1285,7 @@ i [[believe]] we must leave the killing out, when all is done.
 
 bottom.
 not a whit; i have a device to make all well. write me a prologue, and
-let the prologue seem to say we will do no harm with our swords, and
+let the prologue seem to say we will do no harm with our swords [[sword]], and
 that pyramus is not killed indeed; and for the more [[better]] assurance,
 tell them that i pyramus am not pyramus but bottom the weaver. this
 will put them out of [[fear]].
@@ -1315,8 +1315,8 @@ therefore another prologue must tell he is not a lion.
 bottom.
 nay, you must name his name, and half his face must be seen through the
 lion’s neck; and he himself must speak through, saying thus, or to the
-same defect: ‘ladies,’ or, ‘fair ladies, i would [[wish]] you,’ or, ‘i
-would request you,’ or, ’i would entreat you, not to fear, not to
+same defect: ‘ladies,’ or, ‘fair ladies [[lady]], i would [[wish]] you,’ or, ‘i
+would request you,’ or, ’i would entreat you, not to [[fear]], not to
 tremble: my [[life]] for yours. if you [[think]] i come hither as a lion, it
 were [[pity]] of my [[life]]. no, i am no such thing; i am a [[man]] as other men
 are’: and there, indeed, let him name his name, and tell them plainly
@@ -1324,7 +1324,7 @@ he is snug the joiner.
 
 quince.
 well, it shall be so. but there is two hard things: that is, to bring
-the moonlight into a chamber, for you know, pyramus and thisbe meet by
+the moonlight into a chamber, for you [[know]], pyramus and thisbe meet by
 moonlight.
 
 snout
@@ -1358,7 +1358,7 @@ hold his fingers thus, and through that cranny shall pyramus and thisbe
 whisper.
 
 quince.
-if that may be, then all is well. come, sit down, every mother’s son,
+if that may be, then all is well. come, sit down, every mother’s [[son]],
 and rehearse your parts. pyramus, you begin: when you have spoken your
 speech, enter into that brake; and so everyone according to his cue.
 
@@ -1396,7 +1396,7 @@ thisbe.
 must i speak now?
 
 quince.
-ay, marry, must you, for you must [[understand]] he goes but to see a noise
+ay, [[marry]], must you, for you must [[understand]] he goes but to see a noise
 that he heard, and is to come again.
 
 thisbe.
@@ -1417,10 +1417,10 @@ o, _as true as truest horse, that yet would never tire._
  enter puck and bottom with an ass’s head.
 
 pyramus.
-_if i were fair, thisbe, i were only thine._
+_if i were [[fair]], thisbe, i were only thine._
 
 quince.
-o monstrous! o strange! we are haunted. pray, masters, fly, masters!
+o monstrous! o strange! we are haunted. [[pray]], masters, fly, masters!
 help!
 
  [_exeunt clowns._]
@@ -1431,7 +1431,7 @@ i’ll [[follow]] you. i’ll lead you about a round,
 sometime a horse i’ll be, sometime a hound,
    a hog, a headless bear, sometime a fire;
 and neigh, and bark, and grunt, and roar, and burn,
-like horse, hound, hog, bear, fire, at every turn.
+like horse, hound, hog, bear, [[fire]], at every turn.
 
  [_exit._]
 
@@ -1476,7 +1476,7 @@ bottom.
        whose note full many a [[man]] doth mark,
           and dares not [[answer]] nay.
 for, indeed, who would set his wit to so foolish a bird? who would give
-a bird the lie, though he cry ‘cuckoo’ never so?
+a bird the [[lie]], though he cry ‘cuckoo’ never so?
 
 titania.
 i [[pray]] thee, gentle mortal, sing again.
@@ -1487,7 +1487,7 @@ on the first view, to say, to swear, i [[love]] thee.
 
 bottom.
 methinks, mistress, you should have little [[reason]] for that. and yet, to
-say the truth, [[reason]] and [[love]] keep little company together nowadays.
+say the [[truth]], [[reason]] and [[love]] keep little company together nowadays.
 the more the [[pity]] that some honest neighbours will not make them
 friends. nay, i can gleek upon [[occasion]].
 
@@ -1539,7 +1539,7 @@ feed him with apricocks and dewberries,
 with purple grapes, green figs, and mulberries;
 the honey-bags steal from the humble-bees,
 and for night-tapers, crop their waxen thighs,
-and [[light]] them at the fiery glow-worm’s eyes,
+and [[light]] them at the fiery glow-worm’s [[eyes]],
 to have my [[love]] to bed and to arise;
 and pluck the wings from painted butterflies,
 to fan the moonbeams from his sleeping [[eyes]].
@@ -1562,7 +1562,7 @@ mustardseed.
 hail!
 
 bottom.
-i cry your worships mercy, heartily.—i beseech your worship’s name.
+i cry your worships [[mercy]], heartily.—i beseech your worship’s name.
 
 cobweb.
 cobweb.
@@ -1575,7 +1575,7 @@ peaseblossom.
 peaseblossom.
 
 bottom.
-i [[pray]] you, commend me to mistress squash, your mother, and to master
+i [[pray]] you, commend me to mistress squash, your [[mother]], and to master
 peascod, your [[father]]. [[good]] master peaseblossom, i shall [[desire]] you of
 more acquaintance too.—your name, i beseech you, sir?
 
@@ -1621,7 +1621,7 @@ that [[work]] for bread upon athenian stalls,
 were met together to rehearse a play
 intended for [[great]] theseus’ nuptial day.
 the shallowest thick-skin of that barren sort
-who pyramus presented in their sport,
+who pyramus presented in their [[sport]],
 forsook his scene and enter’d in a brake.
 when i did him at this advantage take,
 an ass’s nole i fixed on his head.
@@ -1630,15 +1630,15 @@ and forth my mimic comes. when they him spy,
 as wild geese that the creeping fowler eye,
 or russet-pated choughs, many in sort,
 rising and cawing at the gun’s report,
-sever themselves and madly sweep the sky,
+sever themselves and madly sweep the [[sky]],
 so at his sight away his fellows fly,
 and at our stamp, here o’er and o’er one falls;
 he murder cries, and [[help]] from [[athens]] calls.
-their sense thus weak, lost with their fears, thus strong,
+their sense thus [[weak]], lost with their fears [[fear]], thus [[strong]],
 made senseless things begin to do them wrong;
 for briers and thorns at their apparel snatch;
 some sleeves, some hats, from yielders all things catch.
-i [[led]] them on in this distracted fear,
+i [[led]] them on in this distracted [[fear]],
 and left sweet pyramus translated there.
 when in that moment, so it came to pass,
 titania wak’d, and straightway lov’d an ass.
@@ -1667,9 +1667,9 @@ lay breath so bitter on your bitter foe.
 
 hermia.
 now i but chide, but i should use thee worse,
-for thou, i fear, hast given me cause to curse.
+for thou, i [[fear]], hast given me cause to curse.
 if thou hast slain lysander in his sleep,
-being o’er shoes in blood, plunge in the deep,
+being o’er shoes in [[blood]], plunge in the deep,
 and kill me too.
 the sun was not so true unto the day
 as he to me. would he have stol’n away
@@ -1678,7 +1678,7 @@ this whole [[earth]] may be bor’d, and that the moon
 may through the centre creep and so displease
 her brother’s noontide with th’ antipodes.
 it cannot be but thou hast murder’d him.
-so should a murderer look, so dead, so grim.
+so should a murderer look, so [[dead]], so grim.
 
 demetrius.
 so should the murder’d look, and so should i,
@@ -1707,7 +1707,7 @@ than thine, thou serpent, never adder stung.
 demetrius.
 you spend your passion on a mispris’d mood:
 i am not guilty of lysander’s blood;
-nor is he dead, for aught that i can tell.
+nor is he [[dead]], for aught that i can tell.
 
 hermia.
 i [[pray]] thee, tell me then that he is well.
@@ -1727,7 +1727,7 @@ there is no following her in this fierce vein.
 here, therefore, for a while i will remain.
 so sorrow’s heaviness doth heavier grow
 for debt that bankrupt sleep doth [[sorrow]] owe;
-which now in some slight measure it will pay,
+which now in some slight measure it will [[pay]],
 if for his tender here i make some stay.
 
  [_lies down._]
@@ -1746,7 +1746,7 @@ oberon.
 about the wood go swifter than the wind,
 and helena of [[athens]] look thou find.
 all fancy-sick she is, and pale of cheer
-with sighs of love, that costs the fresh [[blood]] dear.
+with sighs of [[love]], that costs the fresh [[blood]] dear.
 by some illusion see thou bring her here;
 i’ll charm his [[eyes]] against she do appear.
 
@@ -1774,7 +1774,7 @@ puck.
     and the [[youth]] mistook by me,
     pleading for a lover’s fee.
     shall we their fond pageant see?
-    lord, what fools [[fool]] these mortals be!
+    [[lord]], what fools [[fool]] these mortals be!
 
 oberon.
     stand aside. the noise they make
@@ -1794,11 +1794,11 @@ scorn and derision never come in tears.
 look when i vow, i weep; and vows so born,
 in their nativity all [[truth]] appears.
 how can these things in me seem scorn to you,
-bearing the badge of faith, to prove them true?
+bearing the badge of [[faith]], to prove them true?
 
 helena.
 you do advance your cunning more and more.
-when [[truth]] kills truth, o devilish-holy fray!
+when [[truth]] kills [[truth]], o devilish-holy fray!
 these vows are hermia’s: will you give her o’er?
 weigh oath with oath, and you will nothing weigh:
 your vows to her and me, put in two scales,
@@ -1808,20 +1808,20 @@ lysander.
 i had no [[judgment]] when to her i swore.
 
 helena.
-nor none, in my mind, now you give her o’er.
+nor none, in my [[mind]], now you give her o’er.
 
 lysander.
 demetrius loves [[love]] her, and he loves [[love]] not you.
 
 demetrius.
-[_waking._] o helen, goddess, nymph, perfect, divine!
-to what, my love, shall i compare thine eyne?
+[_waking._] o helen, [[goddess]], [[nymph]], [[perfect]], divine!
+to what, my [[love]], shall i compare thine eyne?
 crystal is muddy. o how ripe in show
 thy lips, those kissing cherries, tempting grow!
-that pure congealèd white, high taurus’ snow,
+that pure congealèd [[white]], high taurus’ snow,
 fann’d with the eastern wind, turns to a crow
 when thou hold’st up thy hand. o, let me kiss
-this princess of pure white, this seal of bliss!
+this princess of pure [[white]], this seal of bliss!
 
 helena.
 o spite! o hell! i see you all are bent
@@ -1830,7 +1830,7 @@ if you were civil, and knew courtesy,
 you would not do me thus much injury.
 can you not hate me, as i [[know]] you do,
 but you must join in souls [[soul]] to mock me too?
-if you were men, as [[men]] you are in show,
+if you were [[men]], as [[men]] you are in show,
 you would not use a gentle [[lady]] so;
 to vow, and swear, and superpraise my parts,
 when i am sure you hate me with your hearts [[heart]].
@@ -1845,7 +1845,7 @@ a [[poor]] soul’s patience, all to make you [[sport]].
 lysander.
 you are unkind, demetrius; be not so,
 for you [[love]] hermia; this you [[know]] i [[know]].
-and here, with all [[good]] will, with all my heart,
+and here, with all [[good]] will, with all my [[heart]],
 in hermia’s [[love]] i yield you up my part;
 and yours of helena to me bequeath,
 whom i do [[love]] and will do till my [[death]].
@@ -1864,7 +1864,7 @@ lysander.
 helen, it is not so.
 
 demetrius.
-disparage not the [[faith]] thou dost not know,
+disparage not the [[faith]] thou dost not [[know]],
 lest to thy peril thou aby it dear.
 look where thy [[love]] comes; yonder is thy dear.
 
@@ -1886,7 +1886,7 @@ hermia.
 what [[love]] could press lysander from my side?
 
 lysander.
-lysander’s love, that would not let him bide,
+lysander’s [[love]], that would not let him bide,
 fair helena, who more engilds the night
 than all yon fiery oes and [[eyes]] of [[light]].
 why seek’st thou me? could not this make thee know
@@ -1906,23 +1906,23 @@ is all the counsel that we two have shar’d,
 the sisters’ vows, the hours that we have spent,
 when we have chid the hasty-footed time
 for parting us—o, is all forgot?
-all school-days’ friendship, [[childhood]] innocence?
+all school-days’ [[friendship]], [[childhood]] innocence?
 we, hermia, like two artificial gods,
 have with our needles created both one flower,
 both on one sampler, sitting on one cushion,
-both warbling of one song, both in one key,
-as if our hands, our sides, voices, and minds,
+both warbling of one [[song]], both in one key,
+as if our hands, our sides, voices, and minds [[mind]],
 had been incorporate. so we grew together,
 like to a double cherry, seeming parted,
 but yet a union in partition,
 two lovely berries moulded on one stem;
-so, with two seeming bodies, but one heart;
+so, with two seeming bodies [[body]], but one heart;
 two of the first, like coats in heraldry,
 due but to one, and crownèd with one crest.
 and will you rent our ancient [[love]] asunder,
 to join with [[men]] in scorning your [[poor]] friend?
 it is not friendly, ’tis not maidenly.
-our sex, as well as i, may chide you for it,
+our [[sex]], as well as i, may chide you for it,
 though i alone do [[feel]] the injury.
 
 hermia.
@@ -1932,16 +1932,16 @@ i scorn you not; it seems that you scorn me.
 helena.
 have you not set lysander, as in scorn,
 to [[follow]] me, and [[praise]] my [[eyes]] and face?
-and made your other love, demetrius,
+and made your other [[love]], demetrius,
 who even but now did spurn me with his foot,
-to call me goddess, nymph, [[divine]] and rare,
+to call me [[goddess]], [[nymph]], [[divine]] and rare,
 precious, celestial? wherefore speaks he this
 to her he hates? and wherefore doth lysander
-deny your love, so [[rich]] within his soul,
+deny your [[love]], so [[rich]] within his [[soul]],
 and tender me, forsooth, affection,
 but by your setting on, by your consent?
 what though i be not so in grace as you,
-so hung upon with love, so fortunate,
+so hung upon with [[love]], so fortunate,
 but miserable most, to [[love]] unlov’d?
 this you should [[pity]] rather than despise.
 
@@ -1952,15 +1952,15 @@ helena.
 ay, do. persever, counterfeit [[sad]] looks,
 make mouths upon me when i turn my back,
 wink each at other; hold the sweet jest up.
-this sport, well carried, shall be chronicled.
-if you have any pity, grace, or manners,
+this [[sport]], well carried, shall be chronicled.
+if you have any [[pity]], grace, or manners,
 you would not make me such an argument.
-but fare ye well. ’tis partly my own fault,
-which death, or absence, soon shall remedy.
+but fare ye well. ’tis partly my own [[fault]],
+which [[death]], or absence, soon shall remedy.
 
 lysander.
 stay, gentle helena; hear my excuse;
-my love, my life, my soul, [[fair]] helena!
+my [[love]], my [[life]], my [[soul]], [[fair]] helena!
 
 helena.
 o excellent!
@@ -1995,8 +1995,8 @@ away, you ethiope!
 
 demetrius.
 no, no. he will
-seem to break loose. take on as you would follow,
-but yet come not. you are a tame man, go!
+seem to break loose. take on as you would [[follow]],
+but yet come not. you are a tame [[man]], go!
 
 lysander.
 hang off, thou cat, thou burr! vile thing, let loose,
@@ -2039,8 +2039,8 @@ in earnest, shall i say?
 lysander.
 ay, by my life;
 and never did [[desire]] to see thee more.
-therefore be out of hope, of question, of doubt;
-be certain, nothing truer; ’tis no jest
+therefore be out of [[hope]], of [[question]], of doubt;
+be [[certain]], nothing truer; ’tis no jest
 that i do hate thee and [[love]] helena.
 
 hermia.
@@ -2072,7 +2072,7 @@ i [[pray]] you, though you mock me, gentlemen,
 let her not hurt me. i was never curst;
 i have no gift at all in shrewishness;
 i am a [[right]] maid for my cowardice;
-let her not strike me. you perhaps may think,
+let her not strike me. you perhaps may [[think]],
 because she is something lower than myself,
 that i can match her.
 
@@ -2136,7 +2136,7 @@ thou shalt aby it.
 
 lysander.
 now she holds me not.
-now follow, if thou dar’st, to try whose right,
+now [[follow]], if thou dar’st, to try whose [[right]],
 of thine or mine, is most in helena.
 
 demetrius.
@@ -2188,7 +2188,7 @@ and from each other look thou lead them thus,
 till o’er their brows death-counterfeiting sleep
 with leaden legs and batty wings doth creep.
 then crush this herb into lysander’s eye,
-whose liquor hath this [[virtuous]] property,
+whose liquor hath this [[virtuous]] [[property]],
 to take from thence all error with his might
 and make his eyeballs roll with wonted sight.
 when they next wake, all this derision
@@ -2201,7 +2201,7 @@ and then i will her charmèd eye release
 from monster’s view, and all things shall be [[peace]].
 
 puck.
-my fairy lord, this must be done with haste,
+my fairy [[lord]], this must be done with haste,
 for night’s swift dragons cut the clouds full fast;
 and yonder shines aurora’s harbinger,
 at whose approach, ghosts wandering here and there
@@ -2209,7 +2209,7 @@ troop [[home]] to churchyards. damnèd spirits all,
 that in cross-ways and floods have burial,
 already to their wormy beds are gone;
 for [[fear]] lest day should look their shames upon,
-they wilfully themselves [[exile]] from light,
+they wilfully themselves [[exile]] from [[light]],
 and must for aye consort with black-brow’d night.
 
 oberon.
@@ -2251,12 +2251,12 @@ follow me then to plainer ground.
 
 demetrius.
 lysander, speak again.
-thou runaway, thou coward, art [[arts]] thou fled?
+thou runaway, thou [[coward]], art [[arts]] thou fled?
 speak. in some bush? where dost thou hide thy head?
 
 puck.
-thou coward, art [[arts]] thou bragging to the stars,
-telling the bushes that thou look’st for wars,
+thou [[coward]], art [[arts]] thou bragging to the stars,
+telling the bushes that thou look’st for wars [[war]],
 and wilt not come? come, recreant, come, thou child!
 i’ll whip thee with a rod. he is defil’d
 that draws a [[sword]] on thee.
@@ -2278,7 +2278,7 @@ the villain is much lighter-heel’d than i:
 i follow’d fast, but faster he did fly,
 that fallen am i in dark uneven way,
 and here will rest me.  come, thou gentle day!
-[_lies down._] for if but once thou show me thy grey light,
+[_lies down._] for if but once thou show me thy grey [[light]],
 i’ll find demetrius, and [[revenge]] this spite.
 
  [_sleeps._]
@@ -2286,7 +2286,7 @@ i’ll find demetrius, and [[revenge]] this spite.
  enter puck and demetrius.
 
 puck.
-ho, ho, ho! coward, why com’st thou not?
+ho, ho, ho! [[coward]], why com’st thou not?
 
 demetrius.
 abide me, if thou dar’st; for well i wot
@@ -2413,7 +2413,7 @@ face; and i am such a tender ass, if my hair do but tickle me, i must
 scratch.
 
 titania.
-what, wilt thou hear some music, my sweet love?
+what, wilt thou hear some [[music]], my sweet love?
 
 bottom.
 i have a reasonable [[good]] ear in [[music]]. let us have the tongs and the
@@ -2421,7 +2421,7 @@ bones.
 
 
 titania.
-or say, sweet love, what thou desirest to [[eat]].
+or say, sweet [[love]], what thou desirest to [[eat]].
 
 bottom.
 truly, a peck of provender; i could munch your [[good]] dry oats. methinks
@@ -2453,13 +2453,13 @@ oberon.
 welcome, [[good]] robin. seest thou this sweet sight?
 her dotage now i do begin to [[pity]].
 for, meeting her of late behind the wood,
-seeking sweet favours for this hateful fool,
+seeking sweet favours for this hateful [[fool]],
 i did upbraid her and fall out with her:
 for she his hairy temples then had rounded
 with coronet of fresh and fragrant flowers;
 and that same dew, which sometime on the buds
 was wont to swell like round and orient pearls,
-stood now within the pretty flouriets’ eyes,
+stood now within the pretty flouriets’ [[eyes]],
 like tears that did their own disgrace bewail.
 when i had at my [[pleasure]] taunted her,
 and she in mild terms begg’d my patience,
@@ -2501,7 +2501,7 @@ titania, [[music]] call; and strike more dead
 than [[common]] sleep, of all these five the sense.
 
 titania.
-music, ho, music, such as charmeth sleep.
+music, ho, [[music]], such as charmeth sleep.
 
 puck.
 now when thou wak’st, with thine own fool’s [[eyes]] peep.
@@ -2521,17 +2521,17 @@ there shall the pairs of faithful lovers be
 wedded, with theseus, all in jollity.
 
 puck.
-    fairy king, attend and mark.
+    fairy [[king]], attend and mark.
     i do hear the morning lark.
 
 oberon.
-    then, my queen, in [[silence]] sad,
+    then, my queen, in [[silence]] [[sad]],
     trip we after night’s shade.
     we the globe can compass soon,
     swifter than the wand’ring moon.
 
 titania.
-    come, my lord, and in our flight,
+    come, my [[lord]], and in our flight,
     tell me how it came this night
     that i sleeping here was found
     with these mortals on the ground.
@@ -2559,12 +2559,12 @@ i was with hercules and cadmus once,
 when in a wood of crete they bay’d the bear
 with hounds of sparta. never did i hear
 such gallant chiding; for, besides the groves,
-the skies, the fountains, every region near
+the skies [[sky]], the fountains, every region near
 seem’d all one mutual cry. i never heard
 so musical a discord, such sweet thunder.
 
 theseus.
-my hounds are bred out of the spartan kind,
+my hounds are bred out of the spartan [[kind]],
 so flew’d, so sanded; and their heads are hung
 with ears that sweep away the morning dew;
 crook-knee’d and dewlap’d like thessalian bulls;
@@ -2575,7 +2575,7 @@ in crete, in sparta, nor in thessaly.
 judge when you hear.—but, soft, what nymphs [[nymph]] are these?
 
 egeus.
-my lord, this is my [[daughter]] here asleep,
+my [[lord]], this is my [[daughter]] here asleep,
 and this lysander; this demetrius is;
 this helena, old nedar’s helena:
 i wonder of their being here together.
@@ -2607,41 +2607,41 @@ pardon, my [[lord]].
 theseus.
 i [[pray]] you all, stand up.
 i [[know]] you two are rival enemies [[enemy]].
-how comes this gentle concord in the world,
+how comes this gentle concord in the [[world]],
 that [[hatred]] is so far from jealousy
 to sleep by hate, and [[fear]] no enmity?
 
 lysander.
-my lord, i shall reply amazedly,
+my [[lord]], i shall reply amazedly,
 half sleep, half waking; but as yet, i swear,
 i cannot truly say how i came here.
 but, as i [[think]] (for truly would i speak)
 and now i do bethink me, so it is:
 i came with hermia hither. our intent
-was to be gone from athens, where we might be,
+was to be gone from [[athens]], where we might be,
 without the peril of the athenian [[law]].
 
 egeus.
 enough, enough, my lord; you have enough.
-i beg the law, the [[law]] upon his head.
+i beg the [[law]], the [[law]] upon his head.
 they would have stol’n away, they would, demetrius,
 thereby to have defeated you and me:
-you of your wife, and me of my consent,
+you of your [[wife]], and me of my [[consent]],
 of my [[consent]] that she should be your [[wife]].
 
 demetrius.
-my lord, [[fair]] helen told me of their stealth,
+my [[lord]], [[fair]] helen told me of their stealth,
 of this their [[purpose]] hither to this wood;
 and i in fury hither follow’d them,
 fair helena in fancy following me.
-but, my [[good]] lord, i wot not by what power,
+but, my [[good]] [[lord]], i wot not by what [[power]],
 (but by some [[power]] it is) my [[love]] to hermia,
 melted as the snow, seems to me now
 as the remembrance of an idle gaud
 which in my [[childhood]] i did dote upon;
-and all the faith, the [[virtue]] of my heart,
+and all the [[faith]], the [[virtue]] of my [[heart]],
 the object and the [[pleasure]] of mine eye,
-is only helena. to her, my lord,
+is only helena. to her, my [[lord]],
 was i betroth’d ere i saw hermia.
 but like a sickness did i loathe this food.
 but, as in health, come to my [[natural]] taste,
@@ -2700,7 +2700,7 @@ bottom.
 [_waking._] when my cue comes, call me, and i will [[answer]]. my next is
 ‘most [[fair]] pyramus.’ heigh-ho! peter quince! flute, the bellows-mender!
 snout, the tinker! starveling! [[god’s]] my life! stol’n hence, and left me
-asleep! i have had a most rare vision. i have had a dream, [[past]] the wit
+asleep! i have had a most rare vision. i have had a [[dream]], [[past]] the wit
 of [[man]] to say what [[dream]] it was. [[man]] is but an ass if he go about to
 expound this [[dream]]. methought i was—there is no [[man]] can tell what.
 methought i was, and methought i had—but [[man]] is but a patched [[fool]] if
@@ -2793,7 +2793,7 @@ scene i. [[athens]]. an apartment in the palace of theseus
  enter theseus, hippolyta, philostrate, lords [[lord]] and attendants.
 
 hippolyta.
-’tis strange, my theseus, that these lovers speak of.
+’tis [[strange]], my theseus, that these lovers speak of.
 
 theseus.
 more [[strange]] than true. i never may believe
@@ -2807,15 +2807,15 @@ one sees more devils [[devil]] than vast hell can hold;
 that is the madman: the lover, all as frantic,
 sees helen’s [[beauty]] in a brow of egypt:
 the poet’s eye, in a fine frenzy rolling,
-doth glance from [[heaven]] to earth, from [[earth]] to heaven;
+doth glance from [[heaven]] to [[earth]], from [[earth]] to heaven;
 and as [[imagination]] bodies [[body]] forth
 the forms of things unknown, the poet’s pen
 turns them to shapes, and gives to airy nothing
 a local habitation and a name.
-such tricks hath [[strong]] imagination,
+such tricks hath [[strong]] [[imagination]],
 that if it would but apprehend some joy,
 it comprehends some bringer of that joy.
-or in the night, imagining some fear,
+or in the night, imagining some [[fear]],
 how easy is a bush supposed a bear?
 
 hippolyta.
@@ -2829,7 +2829,7 @@ but, howsoever, [[strange]] and admirable.
 
 theseus.
 here come the lovers, full of joy and mirth.
-joy, gentle friends, joy and fresh days of love
+joy, gentle [[friends]], joy and fresh days of love
 accompany your hearts!
 
 lysander.
@@ -2851,7 +2851,7 @@ here, mighty theseus.
 theseus.
 say, what abridgment have you for this evening?
 what masque? what music? how shall we beguile
-the lazy time, if not with some delight?
+the lazy [[time]], if not with some delight?
 
 philostrate.
 there is a brief how many sports [[sport]] are ripe.
@@ -2879,12 +2879,12 @@ that is hot ice and wondrous [[strange]] snow.
 how shall we find the concord of this discord?
 
 philostrate.
-a play there is, my lord, some ten words long,
+a play there is, my [[lord]], some ten words long,
 which is as brief as i have known a play;
-but by ten words, my lord, it is too long,
+but by ten words, my [[lord]], it is too long,
 which makes it tedious. for in all the play
 there is not one word apt, one player fitted.
-and tragical, my [[noble]] lord, it is.
+and tragical, my [[noble]] [[lord]], it is.
 for pyramus therein doth kill himself,
 which, when i saw rehears’d, i must confess,
 made mine [[eyes]] water; but more merry tears
@@ -2903,7 +2903,7 @@ theseus.
 and we will hear it.
 
 philostrate.
-no, my [[noble]] lord,
+no, my [[noble]] [[lord]],
 it is not for you: i have heard it over,
 and it is nothing, nothing in the world;
 unless you can find [[sport]] in their intents,
@@ -2937,7 +2937,7 @@ where i have come, [[great]] clerks have purposed
 to greet me with premeditated welcomes;
 where i have seen them shiver and look pale,
 make periods in the midst of sentences,
-throttle their practis’d accent in their fears,
+throttle their practis’d accent in their fears [[fear]],
 and, in conclusion, dumbly have broke off,
 not paying me a welcome. trust me, sweet,
 out of this [[silence]] yet i pick’d a welcome;
@@ -2959,8 +2959,8 @@ let him approach.
 
 prologue
 if we offend, it is with our [[good]] will.
-that you should think, we come not to offend,
-but with [[good]] will.  to show our simple skill,
+that you should [[think]], we come not to offend,
+but with [[good]] will.  to show our simple [[skill]],
 that is the true beginning of our end.
 consider then, we come but in despite.
 we do not come, as minding to content you,
@@ -2974,7 +2974,7 @@ this fellow doth not stand upon points.
 
 lysander.
 he hath rid his prologue like a rough colt; he knows [[know]] not the stop. a
-good moral, my lord: it is not enough to speak, but to speak true.
+good [[moral]], my lord: it is not enough to speak, but to speak true.
 
 hippolyta.
 indeed he hath played on this prologue like a child on a recorder; a
@@ -2991,12 +2991,12 @@ gentles, perchance you wonder at this show;
 but wonder on, till [[truth]] make all things plain.
 this [[man]] is pyramus, if you would know;
 this beauteous [[lady]] thisbe is [[certain]].
-this man, with lime and rough-cast, doth present
+this [[man]], with lime and rough-cast, doth present
 wall, that vile wall which did these lovers sunder;
-and through wall’s chink, [[poor]] souls, they are content
+and through wall’s chink, [[poor]] souls [[soul]], they are content
 to whisper, at the which let no [[man]] wonder.
-this man, with lanthern, dog, and bush of thorn,
-presenteth moonshine, for, if you will know,
+this [[man]], with lanthern, dog, and bush of thorn,
+presenteth moonshine, for, if you will [[know]],
 by moonshine did these lovers [[think]] no scorn
 to meet at ninus’ tomb, there, there to woo.
 this grisly beast (which lion hight by name)
@@ -3004,7 +3004,7 @@ the trusty thisbe, coming first by night,
 did scare away, or rather did affright;
 and as she fled, her mantle she did fall;
 which lion vile with bloody mouth did stain.
-anon comes pyramus, sweet youth, and tall,
+anon comes pyramus, sweet [[youth]], and tall,
 and finds his trusty thisbe’s mantle slain;
 whereat with blade, with bloody blameful blade,
 he bravely broach’d his boiling bloody breast;
@@ -3065,7 +3065,7 @@ theseus.
 the wall, methinks, being sensible, should curse again.
 
 pyramus.
-no, in truth, sir, he should not. ‘deceiving me’ is thisbe’s cue: she
+no, in [[truth]], sir, he should not. ‘deceiving me’ is thisbe’s cue: she
 is to enter now, and i am to spy her through the wall. you shall see it
 will fall pat as i told you. yonder she comes.
 
@@ -3083,7 +3083,7 @@ to spy an i can hear my thisbe’s face.
 thisbe?
 
 thisbe.
-my [[love]] thou art, my [[love]] i [[think]].
+my [[love]] thou art [[arts]], my [[love]] i [[think]].
 
 pyramus.
 think what thou wilt, i am thy lover’s grace;
@@ -3108,7 +3108,7 @@ pyramus.
 wilt thou at ninny’s tomb meet me straightway?
 
 thisbe.
-’tide life, ’tide death, i come without delay.
+’tide [[life]], ’tide [[death]], i come without delay.
 
 wall.
 thus have i, wall, my part discharged so;
@@ -3120,7 +3120,7 @@ theseus.
 now is the mural down between the two neighbours.
 
 demetrius.
-no remedy, my lord, when walls are so wilful to hear without warning.
+no remedy, my [[lord]], when walls are so wilful to hear without warning.
 
 hippolyta.
 this is the silliest stuff that ever i heard.
@@ -3139,7 +3139,7 @@ for excellent [[men]]. here come two [[noble]] beasts in, a [[man]] and a lion.
  enter lion and moonshine.
 
 lion.
-you, ladies, you, whose gentle hearts [[heart]] do fear
+you, ladies [[lady]], you, whose gentle hearts [[heart]] do fear
 the smallest monstrous mouse that creeps on floor,
 may now, perchance, both quake and tremble here,
 when lion rough in wildest rage doth roar.
@@ -3152,7 +3152,7 @@ theseus.
 a very gentle beast, and of a [[good]] [[conscience]].
 
 demetrius.
-the very [[best]] at a beast, my lord, that e’er i saw.
+the very [[best]] at a beast, my [[lord]], that e’er i saw.
 
 lysander.
 this lion is a very fox for his valour.
@@ -3161,7 +3161,7 @@ theseus.
 true; and a goose for his discretion.
 
 demetrius.
-not so, my lord, for his valour cannot carry his discretion, and the
+not so, my [[lord]], for his valour cannot carry his discretion, and the
 fox carries the goose.
 
 theseus.
@@ -3196,7 +3196,7 @@ i am aweary of this moon. would he would change!
 
 theseus.
 it appears by his small [[light]] of discretion that he is in the wane; but
-yet, in courtesy, in all reason, we must stay the [[time]].
+yet, in courtesy, in all [[reason]], we must stay the [[time]].
 
 lysander.
 proceed, moon.
@@ -3250,13 +3250,13 @@ i trust to take of truest thisbe sight.
              but stay! o spite!
              but mark, [[poor]] knight,
          what dreadful dole is here!
-             eyes, do you see?
+             [[eyes]], do you see?
              how can it be?
          o dainty duck! o dear!
-             thy mantle good,
+             thy mantle [[good]],
              what, stained with blood?
          approach, ye furies fell!
-             o fates, come, come;
+             o fates [[fate]], come, come;
              cut thread and thrum;
          quail, rush, conclude, and quell!
 
@@ -3265,33 +3265,33 @@ this passion, and the [[death]] of a dear friend, would go near to make a
 man look [[sad]].
 
 hippolyta.
-beshrew my heart, but i [[pity]] the [[man]].
+beshrew my [[heart]], but i [[pity]] the [[man]].
 
 pyramus.
-o wherefore, nature, didst thou lions frame,
+o wherefore, [[nature]], didst thou lions frame,
 since lion vile hath here deflower’d my dear?
 which is—no, no—which was the fairest dame
 that liv’d, that lov’d, that lik’d, that look’d with cheer.
              come, tears, confound!
-             out, sword, and wound
+             out, [[sword]], and wound
          the pap of pyramus;
              ay, that left pap,
              where [[heart]] doth hop:
          thus [[die]] i, thus, thus, thus.
-             now am i dead,
+             now am i [[dead]],
              now am i fled;
          my [[soul]] is in the [[sky]].
              tongue, lose thy light!
              moon, take thy flight!
-         now die, die, die, die, [[die]].
+         now [[die]], [[die]], [[die]], [[die]], [[die]].
 
  [_dies. exit moonshine._]
 
 demetrius.
-no die, but an ace, for him; for he is but one.
+no [[die]], but an ace, for him; for he is but one.
 
 lysander.
-less than an ace, man; for he is dead, he is nothing.
+less than an ace, man; for he is [[dead]], he is nothing.
 
 theseus.
 with the [[help]] of a surgeon he might yet recover and prove an ass.
@@ -3314,7 +3314,7 @@ will be brief.
 
 demetrius.
 a mote will turn the balance, which pyramus, which thisbe, is the
-better: he for a man, [[god]] warrant us; she for a woman, [[god]] bless us!
+better: he for a [[man]], [[god]] warrant us; she for a woman, [[god]] bless us!
 
 lysander.
 she hath spied him already with those sweet [[eyes]].
@@ -3324,10 +3324,10 @@ and thus she means, _videlicet_—
 
 thisbe.
              asleep, my love?
-             what, dead, my dove?
+             what, [[dead]], my dove?
          o pyramus, arise,
              speak, speak. quite dumb?
-             dead, dead? a tomb
+             [[dead]], dead? a tomb
          must cover thy sweet [[eyes]].
              these lily lips,
              this cherry nose,
@@ -3342,7 +3342,7 @@ thisbe.
              since you have shore
          with shears his thread of silk.
              tongue, not a word:
-             come, trusty sword,
+             come, trusty [[sword]],
          come, blade, my breast imbrue;
              and farewell, [[friends]].
              thus thisbe ends.
@@ -3363,7 +3363,7 @@ two of our company?
 
 theseus.
 no epilogue, i [[pray]] you; for your play needs no excuse. never excuse;
-for when the players are all [[dead]] there need none to be blamed. marry,
+for when the players are all [[dead]] there need none to be blamed. [[marry]],
 if he that writ it had played pyramus, and [[hanged]] himself in thisbe’s
 garter, it would have been a fine tragedy; and so it is, truly; and
 very notably discharged. but come, your bergomask; let your epilogue
@@ -3376,7 +3376,7 @@ lovers, to bed; ’tis almost fairy [[time]].
 i [[fear]] we shall outsleep the coming morn
 as much as we this night have overwatch’d.
 this palpable-gross play hath well beguil’d
-the heavy gait of night. sweet friends, to bed.
+the heavy gait of night. sweet [[friends]], to bed.
 a fortnight hold we this solemnity
 in nightly revels and new jollity.
 
@@ -3400,7 +3400,7 @@ puck.
    and we fairies, that do run
       by the triple hecate’s team
    from the presence of the sun,
-      following darkness like a dream,
+      following darkness like a [[dream]],
    now are frolic; not a mouse
       shall disturb this hallow’d house.
    i am sent with broom before,
@@ -3409,7 +3409,7 @@ puck.
  enter oberon and titania with their train.
 
 oberon.
-   through the house give glimmering light,
+   through the house give glimmering [[light]],
         by the [[dead]] and drowsy [[fire]].
    every elf and fairy sprite
         hop as [[light]] as bird from brier,
@@ -3456,7 +3456,7 @@ puck.
    that you have but slumber’d here
    while these visions did appear.
    and this [[weak]] and idle theme,
-   no more yielding but a dream,
+   no more yielding but a [[dream]],
    gentles, do not reprehend.
    if you pardon, we will mend.
    and, as i am an honest puck,
@@ -3465,7 +3465,7 @@ puck.
    we will make amends ere long;
    else the puck a liar call.
    so, [[good]] night unto you all.
-   give me your hands, if we be friends,
+   give me your hands, if we be [[friends]],
    and robin shall restore amends.
 
  [_exit._]
